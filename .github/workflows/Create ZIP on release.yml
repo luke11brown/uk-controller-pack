@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  package:
+  Create ZIP on release:
     runs-on: ubuntu-latest
 
     steps:
@@ -16,7 +16,7 @@ jobs:
 
       - name: Copy README from docs folder
         run: |
-          cp _docs/README.pdf /README.pdf
+          cp _docs/README.pdf UK/README.pdf
 
       - name: Get Release Tag
         id: get_release_tag
