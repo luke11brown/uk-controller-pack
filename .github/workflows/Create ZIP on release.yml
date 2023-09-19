@@ -16,7 +16,7 @@ jobs:
 
       - name: Copy README from docs folder
         run: |
-          cp _docs/README.pdf README.pdf
+          cp _docs/README.pdf /README.pdf
 
       - name: Get Release Tag
         id: get_release_tag
