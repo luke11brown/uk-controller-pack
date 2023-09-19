@@ -31,6 +31,6 @@ jobs:
         uses: softprops/action-gh-release@v1
         with:
           files: |
-            "uk_controller_pack_${{ steps.get_release_tag.outputs.tag }}.zip"
+            uk_controller_pack_${{ steps.get_release_tag.outputs.tag }}.zip
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
