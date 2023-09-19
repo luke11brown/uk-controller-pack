@@ -15,7 +15,7 @@ jobs:
 
       - name: Copy README from docs folder
         run: |
-          cp \_docs\README.pdf UK\README.pdf
+          cp _docs/README.pdf UK/README.pdf
 
       - name: Get Release Tag
         id: get_release_tag
@@ -24,7 +24,7 @@ jobs:
 
       - name: Package Folder as ZIP
         run: |
-          zip -r "uk_controller_pack_${{ steps.get_release_tag.outputs.tag }}.zip" \UK\ -x "*.py"
+          zip -r "uk_controller_pack_${{ steps.get_release_tag.outputs.tag }}.zip" UK/ -x "*.py"
           
       - name: Upload ZIP Artifact
         uses: actions/upload-artifact@v2
