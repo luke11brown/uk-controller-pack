@@ -30,5 +30,12 @@ jobs:
       - name: Upload ZIP Artifact
         uses: actions/upload-artifact@v2
         with:
-          name: my-package
-          path: "uk_controller_pack_${{ steps.get_release_tag.outputs.tag }}.zip"
+          name: "uk_controller_pack_${{ steps.get_release_tag.outputs.tag }}.zip"
+          
+          name: Upload ZIP as Release Asset
+        uses: softprops/action-gh-release@v1
+        with:
+          files: |
+            uk_controller_pack_${{ steps.get_release_tag.outputs.tag }}.zip
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
