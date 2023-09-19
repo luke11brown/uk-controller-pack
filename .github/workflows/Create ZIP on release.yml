@@ -32,7 +32,7 @@ jobs:
         with:
           name: "uk_controller_pack_${{ steps.get_release_tag.outputs.tag }}.zip"
           
-          name: Upload ZIP as Release Asset
+      - name: Upload ZIP as Release Asset
         uses: softprops/action-gh-release@v1
         with:
           files: |
