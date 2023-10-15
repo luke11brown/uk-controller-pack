@@ -16,10 +16,12 @@ jobs:
         run: cp _docs/README.pdf UK/README.pdf
 
       - name: Get release tag
-        run: echo ::set-env name=RELEASE_TAG::${GITHUB_REF#refs/tags/}
+        id: get_tag
+        run: echo ::set-output name=RELEASE_TAG::${GITHUB_REF#refs/tags/}
 
       - name: Create changes only zip
         run: |
+          RELEASE_TAG=$(cat $GITHUB_WORKSPACE/.github/workflows/release_tag.txt)
           git diff --diff-filter=d --name-only -z $(git rev-list -n 1 $RELEASE_TAG)^ | grep -z -v '\.prf$' | xargs -0 git archive -o changes_only_${RELEASE_TAG}.zip HEAD --
           git diff --name-only $(git rev-list -n 1 $RELEASE_TAG)^ $RELEASE_TAG -- '*.prf' | while read -r file; do
               if ! git diff "$file" | grep -q -E "^\-Settings\s+sector" && git diff "$file" | grep -q -E "^\+Settings\s+sector"; then
@@ -32,5 +34,5 @@ jobs:
       - name: Upload changes only zip
         uses: actions/upload-artifact@v2
         with:
-          name: changes_only_${RELEASE_TAG}.zip
-          path: changes_only_${RELEASE_TAG}.zip
+          name: changes_only_${{ steps.get_tag.outputs.RELEASE_TAG }}.zip
+          path: changes_only_${{ steps.get_tag.outputs.RELEASE_TAG }}.zip
