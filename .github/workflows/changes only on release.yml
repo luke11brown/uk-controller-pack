@@ -23,6 +23,7 @@ jobs:
         run: |
           RELEASE_TAG=${GITHUB_REF#refs/tags/}
           LAST_TAG=$(git describe --tags --abbrev=0)
+          touch included_files.txt
           git diff --diff-filter=d --name-only -z "$LAST_TAG".."$RELEASE_TAG" | grep -z -v '\.prf$' | xargs -0 git archive -o changes_only_${RELEASE_TAG}.zip HEAD --
           git diff --name-only "$LAST_TAG".."$RELEASE_TAG" -- '*.prf' | while read -r file; do
               if ! git diff "$file" | grep -q -E "^\-Settings\s+sector" && git diff "$file" | grep -q -E "^\+Settings\s+sector"; then
@@ -31,3 +32,9 @@ jobs:
           done
           zip -r changes_only_${RELEASE_TAG}.zip $(cat included_files.txt)
           rm included_files.txt
+
+      - name: Upload changes only zip
+        uses: actions/upload-artifact@v2
+        with:
+          name: changes_only_${{ steps.get_tag.outputs.RELEASE_TAG }}.zip
+          path: changes_only_${{ steps.get_tag.outputs.RELEASE_TAG }}.zip
