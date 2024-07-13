@@ -90,7 +90,6 @@
           "string": "26L/08R",
           "spoken": "TWO SIX LEFT ZERO EIGHT RIGHT"
         }
-
       ],
       "AirportConditionDefinitions": [],
       "AirportConditionsBeforeFreeText": false,
@@ -328,24 +327,14 @@
         "transitionLevel": {
           "values": [
             {
-              "low": 1050,
-              "high": 1060,
-              "altitude": 60
+              "low": 940,
+              "high": 958,
+              "altitude": 90
             },
             {
-              "low": 1032,
-              "high": 1049,
-              "altitude": 65
-            },
-            {
-              "low": 1013,
-              "high": 1031,
-              "altitude": 70
-            },
-            {
-              "low": 995,
-              "high": 1012,
-              "altitude": 75
+              "low": 959,
+              "high": 976,
+              "altitude": 85
             },
             {
               "low": 977,
@@ -353,9 +342,24 @@
               "altitude": 80
             },
             {
-              "low": 959,
-              "high": 976,
-              "altitude": 85
+              "low": 995,
+              "high": 1012,
+              "altitude": 75
+            },
+            {
+              "low": 1013,
+              "high": 1031,
+              "altitude": 70
+            },
+            {
+              "low": 1032,
+              "high": 1049,
+              "altitude": 65
+            },
+            {
+              "low": 1050,
+              "high": 1060,
+              "altitude": 60
             }
           ],
           "template": {
@@ -374,7 +378,6 @@
       "NotamsBeforeFreeText": false
     },
     {
-
       "Name": "Heathrow",
       "Identifier": "EGLL",
       "AtisType": 0,
@@ -764,24 +767,14 @@
         "transitionLevel": {
           "values": [
             {
-              "low": 1050,
-              "high": 1060,
-              "altitude": 60
+              "low": 940,
+              "high": 958,
+              "altitude": 90
             },
             {
-              "low": 1032,
-              "high": 1049,
-              "altitude": 65
-            },
-            {
-              "low": 1013,
-              "high": 1031,
-              "altitude": 70
-            },
-            {
-              "low": 995,
-              "high": 1012,
-              "altitude": 75
+              "low": 959,
+              "high": 976,
+              "altitude": 85
             },
             {
               "low": 977,
@@ -789,9 +782,24 @@
               "altitude": 80
             },
             {
-              "low": 959,
-              "high": 976,
-              "altitude": 85
+              "low": 995,
+              "high": 1012,
+              "altitude": 75
+            },
+            {
+              "low": 1013,
+              "high": 1031,
+              "altitude": 70
+            },
+            {
+              "low": 1032,
+              "high": 1049,
+              "altitude": 65
+            },
+            {
+              "low": 1050,
+              "high": 1060,
+              "altitude": 60
             }
           ],
           "template": {
@@ -817,7 +825,7 @@
         "low": "A",
         "high": "Z"
       },
-      "AtisFrequency": 36350,
+      "AtisFrequency": 36355,
       "AtisVoice": {
         "UseTextToSpeech": true,
         "Voice": "UK Male"
@@ -894,7 +902,6 @@
           "string": "SRO",
           "spoken": "SINGLE RUNWAY OPERATIONS"
         }
-
       ],
       "AirportConditionDefinitions": [],
       "AirportConditionsBeforeFreeText": false,
@@ -1117,24 +1124,14 @@
         "transitionLevel": {
           "values": [
             {
-              "low": 1050,
-              "high": 1060,
-              "altitude": 60
+              "low": 940,
+              "high": 958,
+              "altitude": 90
             },
             {
-              "low": 1032,
-              "high": 1049,
-              "altitude": 65
-            },
-            {
-              "low": 1013,
-              "high": 1031,
-              "altitude": 70
-            },
-            {
-              "low": 995,
-              "high": 1012,
-              "altitude": 75
+              "low": 959,
+              "high": 976,
+              "altitude": 85
             },
             {
               "low": 977,
@@ -1142,9 +1139,24 @@
               "altitude": 80
             },
             {
-              "low": 959,
-              "high": 976,
-              "altitude": 85
+              "low": 995,
+              "high": 1012,
+              "altitude": 75
+            },
+            {
+              "low": 1013,
+              "high": 1031,
+              "altitude": 70
+            },
+            {
+              "low": 1032,
+              "high": 1049,
+              "altitude": 65
+            },
+            {
+              "low": 1050,
+              "high": 1060,
+              "altitude": 60
             }
           ],
           "template": {
@@ -1170,7 +1182,7 @@
         "low": "A",
         "high": "Z"
       },
-      "AtisFrequency": 33725,
+      "AtisFrequency": 33730,
       "AtisVoice": {
         "UseTextToSpeech": true,
         "Voice": "UK Male"
@@ -1235,7 +1247,6 @@
           "string": "SRO",
           "spoken": "SINGLE RUNWAY OPERATIONS"
         }
-
       ],
       "AirportConditionDefinitions": [],
       "AirportConditionsBeforeFreeText": false,
@@ -1453,24 +1464,14 @@
         "transitionLevel": {
           "values": [
             {
-              "low": 1050,
-              "high": 1060,
-              "altitude": 60
+              "low": 940,
+              "high": 958,
+              "altitude": 90
             },
             {
-              "low": 1032,
-              "high": 1049,
-              "altitude": 65
-            },
-            {
-              "low": 1013,
-              "high": 1031,
-              "altitude": 70
-            },
-            {
-              "low": 995,
-              "high": 1012,
-              "altitude": 75
+              "low": 959,
+              "high": 976,
+              "altitude": 85
             },
             {
               "low": 977,
@@ -1478,9 +1479,24 @@
               "altitude": 80
             },
             {
-              "low": 959,
-              "high": 976,
-              "altitude": 85
+              "low": 995,
+              "high": 1012,
+              "altitude": 75
+            },
+            {
+              "low": 1013,
+              "high": 1031,
+              "altitude": 70
+            },
+            {
+              "low": 1032,
+              "high": 1049,
+              "altitude": 65
+            },
+            {
+              "low": 1050,
+              "high": 1060,
+              "altitude": 60
             }
           ],
           "template": {
@@ -1506,7 +1522,7 @@
         "low": "A",
         "high": "Z"
       },
-      "AtisFrequency": 30975,
+      "AtisFrequency": 30980,
       "AtisVoice": {
         "UseTextToSpeech": true,
         "Voice": "UK Male"
@@ -1571,7 +1587,6 @@
           "string": "SRO",
           "spoken": "SINGLE RUNWAY OPERATIONS"
         }
-
       ],
       "AirportConditionDefinitions": [],
       "AirportConditionsBeforeFreeText": false,
@@ -1789,24 +1804,14 @@
         "transitionLevel": {
           "values": [
             {
-              "low": 1050,
-              "high": 1060,
-              "altitude": 60
+              "low": 940,
+              "high": 958,
+              "altitude": 90
             },
             {
-              "low": 1032,
-              "high": 1049,
-              "altitude": 65
-            },
-            {
-              "low": 1013,
-              "high": 1031,
-              "altitude": 70
-            },
-            {
-              "low": 995,
-              "high": 1012,
-              "altitude": 75
+              "low": 959,
+              "high": 976,
+              "altitude": 85
             },
             {
               "low": 977,
@@ -1814,9 +1819,24 @@
               "altitude": 80
             },
             {
-              "low": 959,
-              "high": 976,
-              "altitude": 85
+              "low": 995,
+              "high": 1012,
+              "altitude": 75
+            },
+            {
+              "low": 1013,
+              "high": 1031,
+              "altitude": 70
+            },
+            {
+              "low": 1032,
+              "high": 1049,
+              "altitude": 65
+            },
+            {
+              "low": 1050,
+              "high": 1060,
+              "altitude": 60
             }
           ],
           "template": {
@@ -1842,7 +1862,7 @@
         "low": "A",
         "high": "Z"
       },
-      "AtisFrequency": 35675,
+      "AtisFrequency": 35680,
       "AtisVoice": {
         "UseTextToSpeech": true,
         "Voice": "UK Male"
@@ -1919,7 +1939,6 @@
           "string": "SRO",
           "spoken": "SINGLE RUNWAY OPERATIONS"
         }
-
       ],
       "AirportConditionDefinitions": [],
       "AirportConditionsBeforeFreeText": false,
@@ -2137,24 +2156,14 @@
         "transitionLevel": {
           "values": [
             {
-              "low": 1050,
-              "high": 1060,
-              "altitude": 60
+              "low": 940,
+              "high": 958,
+              "altitude": 90
             },
             {
-              "low": 1032,
-              "high": 1049,
-              "altitude": 65
-            },
-            {
-              "low": 1013,
-              "high": 1031,
-              "altitude": 70
-            },
-            {
-              "low": 995,
-              "high": 1012,
-              "altitude": 75
+              "low": 959,
+              "high": 976,
+              "altitude": 85
             },
             {
               "low": 977,
@@ -2162,9 +2171,24 @@
               "altitude": 80
             },
             {
-              "low": 959,
-              "high": 976,
-              "altitude": 85
+              "low": 995,
+              "high": 1012,
+              "altitude": 75
+            },
+            {
+              "low": 1013,
+              "high": 1031,
+              "altitude": 70
+            },
+            {
+              "low": 1032,
+              "high": 1049,
+              "altitude": 65
+            },
+            {
+              "low": 1050,
+              "high": 1060,
+              "altitude": 60
             }
           ],
           "template": {
@@ -2190,7 +2214,7 @@
         "low": "A",
         "high": "Z"
       },
-      "AtisFrequency": 28400,
+      "AtisFrequency": 28405,
       "AtisVoice": {
         "UseTextToSpeech": true,
         "Voice": "UK Male"
@@ -2255,7 +2279,6 @@
           "string": "SRO",
           "spoken": "SINGLE RUNWAY OPERATIONS"
         }
-
       ],
       "AirportConditionDefinitions": [],
       "AirportConditionsBeforeFreeText": false,
@@ -2478,24 +2501,14 @@
         "transitionLevel": {
           "values": [
             {
-              "low": 1050,
-              "high": 1060,
-              "altitude": 60
+              "low": 940,
+              "high": 958,
+              "altitude": 90
             },
             {
-              "low": 1032,
-              "high": 1049,
-              "altitude": 65
-            },
-            {
-              "low": 1013,
-              "high": 1031,
-              "altitude": 70
-            },
-            {
-              "low": 995,
-              "high": 1012,
-              "altitude": 75
+              "low": 959,
+              "high": 976,
+              "altitude": 85
             },
             {
               "low": 977,
@@ -2503,9 +2516,24 @@
               "altitude": 80
             },
             {
-              "low": 959,
-              "high": 976,
-              "altitude": 85
+              "low": 995,
+              "high": 1012,
+              "altitude": 75
+            },
+            {
+              "low": 1013,
+              "high": 1031,
+              "altitude": 70
+            },
+            {
+              "low": 1032,
+              "high": 1049,
+              "altitude": 65
+            },
+            {
+              "low": 1050,
+              "high": 1060,
+              "altitude": 60
             }
           ],
           "template": {
@@ -2531,7 +2559,7 @@
         "low": "A",
         "high": "Z"
       },
-      "AtisFrequency": 36050,
+      "AtisFrequency": 36055,
       "AtisVoice": {
         "UseTextToSpeech": true,
         "Voice": "UK Male"
@@ -2608,7 +2636,6 @@
           "string": "SRO",
           "spoken": "SINGLE RUNWAY OPERATIONS"
         }
-
       ],
       "AirportConditionDefinitions": [],
       "AirportConditionsBeforeFreeText": false,
@@ -2831,24 +2858,14 @@
         "transitionLevel": {
           "values": [
             {
-              "low": 1050,
-              "high": 1060,
-              "altitude": 60
+              "low": 940,
+              "high": 958,
+              "altitude": 90
             },
             {
-              "low": 1032,
-              "high": 1049,
-              "altitude": 65
-            },
-            {
-              "low": 1013,
-              "high": 1031,
-              "altitude": 70
-            },
-            {
-              "low": 995,
-              "high": 1012,
-              "altitude": 75
+              "low": 959,
+              "high": 976,
+              "altitude": 85
             },
             {
               "low": 977,
@@ -2856,9 +2873,24 @@
               "altitude": 80
             },
             {
-              "low": 959,
-              "high": 976,
-              "altitude": 85
+              "low": 995,
+              "high": 1012,
+              "altitude": 75
+            },
+            {
+              "low": 1013,
+              "high": 1031,
+              "altitude": 70
+            },
+            {
+              "low": 1032,
+              "high": 1049,
+              "altitude": 65
+            },
+            {
+              "low": 1050,
+              "high": 1060,
+              "altitude": 60
             }
           ],
           "template": {
@@ -2884,7 +2916,7 @@
         "low": "A",
         "high": "Z"
       },
-      "AtisFrequency": 30875,
+      "AtisFrequency": 30880,
       "AtisVoice": {
         "UseTextToSpeech": true,
         "Voice": "UK Male"
@@ -2949,7 +2981,6 @@
           "string": "SRO",
           "spoken": "SINGLE RUNWAY OPERATIONS"
         }
-
       ],
       "AirportConditionDefinitions": [],
       "AirportConditionsBeforeFreeText": false,
@@ -3172,24 +3203,14 @@
         "transitionLevel": {
           "values": [
             {
-              "low": 1050,
-              "high": 1060,
-              "altitude": 60
+              "low": 940,
+              "high": 958,
+              "altitude": 90
             },
             {
-              "low": 1032,
-              "high": 1049,
-              "altitude": 65
-            },
-            {
-              "low": 1013,
-              "high": 1031,
-              "altitude": 70
-            },
-            {
-              "low": 995,
-              "high": 1012,
-              "altitude": 75
+              "low": 959,
+              "high": 976,
+              "altitude": 85
             },
             {
               "low": 977,
@@ -3197,9 +3218,24 @@
               "altitude": 80
             },
             {
-              "low": 959,
-              "high": 976,
-              "altitude": 85
+              "low": 995,
+              "high": 1012,
+              "altitude": 75
+            },
+            {
+              "low": 1013,
+              "high": 1031,
+              "altitude": 70
+            },
+            {
+              "low": 1032,
+              "high": 1049,
+              "altitude": 65
+            },
+            {
+              "low": 1050,
+              "high": 1060,
+              "altitude": 60
             }
           ],
           "template": {
@@ -3216,10 +3252,181 @@
         }
       },
       "NotamsBeforeFreeText": false
+    },
+    {
+      "Name": "Redhill",
+      "Identifier": "EGKR",
+      "contractions": [
+        {
+          "String": "LVPS",
+          "Spoken": "L V PEES"
+        },
+        {
+          "String": "LOGON",
+          "Spoken": "LOG ON"
+        },
+        {
+          "String": "EGKR",
+          "Spoken": "ECHO GOLF KILO ROMEO"
+        }
+      ],
+      "AtisFrequency": 25305,
+      "ObservationTime": {
+        "Enabled": false,
+        "Time": 0
+      },
+      "MagneticVariation": {
+        "Enabled": false,
+        "MagneticDegrees": 0
+      },
+      "AtisVoice": {
+        "UseTextToSpeech": true,
+        "Voice": "UK Male"
+      },
+      "IDSEndpoint": null,
+      "useNotamPrefix": false,
+      "useDecimalTerminology": true,
+      "Presets": [
+        {
+          "Name": "07L",
+          "AirportConditions": null,
+          "Notams": null,
+          "ArbitraryText": null,
+          "Template": "REDHILL INFORMATION [ATIS_CODE], TIME [TIME] RUNWAY IN USE 07L. [TL] [WX]. [ARPT_COND] [NOTAMS] ACKNOWLEDGE RECEIPT OF INFORMATION [ATIS_CODE] AND ADVISE AIRCRAFT TYPE ON FIRST CONTACT."
+        },
+        {
+          "Name": "25R",
+          "AirportConditions": null,
+          "Notams": null,
+          "ArbitraryText": null,
+          "Template": "REDHILL INFORMATION [ATIS_CODE], TIME [TIME] RUNWAY IN USE 25R. [TL] [WX]. [ARPT_COND] [NOTAMS] ACKNOWLEDGE RECEIPT OF INFORMATION [ATIS_CODE] AND ADVISE AIRCRAFT TYPE ON FIRST CONTACT."
+        },
+        {
+          "Name": "07R",
+          "AirportConditions": null,
+          "Notams": null,
+          "ArbitraryText": null,
+          "Template": "REDHILL INFORMATION [ATIS_CODE], TIME [TIME] RUNWAY IN USE 07R. [TL] [WX]. [ARPT_COND] [NOTAMS] ACKNOWLEDGE RECEIPT OF INFORMATION [ATIS_CODE] AND ADVISE AIRCRAFT TYPE ON FIRST CONTACT."
+        },
+        {
+          "Name": "25L",
+          "AirportConditions": null,
+          "Notams": null,
+          "ArbitraryText": null,
+          "Template": "REDHILL INFORMATION [ATIS_CODE], TIME [TIME] RUNWAY IN USE 25L. [TL] [WX]. [ARPT_COND] [NOTAMS] ACKNOWLEDGE RECEIPT OF INFORMATION [ATIS_CODE] AND ADVISE AIRCRAFT TYPE ON FIRST CONTACT."
+        },
+        {
+          "Name": "18",
+          "AirportConditions": null,
+          "Notams": null,
+          "ArbitraryText": null,
+          "Template": "REDHILL INFORMATION [ATIS_CODE], TIME [TIME] RUNWAY IN USE 18. [TL] [WX]. [ARPT_COND] [NOTAMS] ACKNOWLEDGE RECEIPT OF INFORMATION [ATIS_CODE] AND ADVISE AIRCRAFT TYPE ON FIRST CONTACT."
+        },
+        {
+          "Name": "36",
+          "AirportConditions": null,
+          "Notams": null,
+          "ArbitraryText": null,
+          "Template": "REDHILL INFORMATION [ATIS_CODE], TIME [TIME] RUNWAY IN USE 36. [TL] [WX]. [ARPT_COND] [NOTAMS] ACKNOWLEDGE RECEIPT OF INFORMATION [ATIS_CODE] AND ADVISE AIRCRAFT TYPE ON FIRST CONTACT."
+        }
+      ],
+      "AirportConditionDefinitions": [
+        {
+          "Ordinal": 1,
+          "Text": "LVPS IN FORCE. PILOTS ARE REMINDED THAT USE OF THE CAT 3 HOLDING POINTS IS MANDATORY",
+          "Enabled": false
+        },
+        {
+          "Ordinal": 2,
+          "Text": "INCREASED BIRD ACTIVITY WITHIN THE AERODROME BOUNDARY.",
+          "Enabled": false
+        },
+        {
+          "Ordinal": 3,
+          "Text": "LARGE FLOCKS OF BIRDS HAVE BEEN OBSERVED WITHIN THE VICINITY OF THE AERODROME.",
+          "Enabled": false
+        },
+        {
+          "Ordinal": 4,
+          "Text": "TURBULENCE MAY BE ENCOUNTERED IN THE FINAL STAGES OF THE APPROACH.",
+          "Enabled": false
+        },
+        {
+          "Ordinal": 5,
+          "Text": "WINDSHEAR REPORTED.",
+          "Enabled": false
+        },
+        {
+          "Ordinal": 6,
+          "Text": "BE ADVISED MODERATE MICRO-BURST FORECAST.",
+          "Enabled": false
+        },
+        {
+          "Ordinal": 11,
+          "Text": "PILOTS ARE REMINDED TO USE MINIMUM RUNWAY OCCUPANCY.",
+          "Enabled": false
+        },
+        {
+          "Ordinal": 8,
+          "Text": "FOR CLEARANCE CONTACT TOWER ON 119.605.",
+          "Enabled": false
+        },
+        {
+          "Ordinal": 10,
+          "Text": "DATA-LINK CLEARANCES ARE AVAILABLE, LOGON EGKR.",
+          "Enabled": false
+        },
+        {
+          "Ordinal": 11,
+          "Text": "PILOTS THAT ARE IN RECEIPT OF DATA-LINK CLEARANCES ARE REMINDED THAT THEY MUST CONTACT TOWER ON 119.605 WHEN READY FOR START.",
+          "Enabled": false
+        }
+      ],
+      "notamDefinitions": [],
+      "atisFormat": {
+        "transitionLevel": {
+          "values": [
+            {
+              "low": 940,
+              "high": 958,
+              "altitude": 90
+            },
+            {
+              "low": 959,
+              "high": 976,
+              "altitude": 85
+            },
+            {
+              "low": 977,
+              "high": 994,
+              "altitude": 80
+            },
+            {
+              "low": 995,
+              "high": 1012,
+              "altitude": 75
+            },
+            {
+              "low": 1013,
+              "high": 1031,
+              "altitude": 70
+            },
+            {
+              "low": 1032,
+              "high": 1049,
+              "altitude": 65
+            },
+            {
+              "low": 1050,
+              "high": 1060,
+              "altitude": 60
+            }
+          ]
+        },
+        "closingStatement": {
+          "autoIncludeClosingStatement": false
+        }
+      }
     }
-
-
-
-
   ]
 }

@@ -9,7 +9,7 @@
         "low": "A",
         "high": "Z"
       },
-      "AtisFrequency": 21975,
+      "AtisFrequency": 21980,
       "AtisVoice": {
         "UseTextToSpeech": true,
         "Voice": "UK Male"
@@ -22,77 +22,76 @@
       "Presets": [
         {
           "Name": "23R SRO (MAN_CTR)",
-          "AirportConditions": "SINGLE RUNWAY OPERATIONS. DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH LONDON CONTROL ON 133.2",
+          "AirportConditions": "SINGLE RUNWAY OPERATIONS. DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH SCOTTISH CONTROL ON 133.2",
           "ArbitraryText": null,
           "Template": "THIS IS [FACILITY] INFORMATION [ATIS_CODE] AT TIME [OBS_TIME]. AUTOMATIC. RUNWAY 23R IN USE. [TL]. [NOTAMS]. [ARPT_COND]. [WIND]. [VIS]. [RVR]. [PRESENT_WX]. [CLOUDS]. [TEMP]. [DEW]. [PRESSURE]. ACKNOWLEDGE RECEIPT OF INFORMATION [ATIS_CODE] AND ADVISE AIRCRAFT TYPE ON FIRST CONTACT."
         },
         {
           "Name": "05L SRO (MAN_CTR)",
-          "AirportConditions": "SINGLE RUNWAY OPERATIONS. DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH LONDON CONTROL ON 133.2",
+          "AirportConditions": "SINGLE RUNWAY OPERATIONS. DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH SCOTTISH CONTROL ON 133.2",
           "ArbitraryText": null,
           "Template": "THIS IS [FACILITY] INFORMATION [ATIS_CODE] AT TIME [OBS_TIME]. AUTOMATIC. RUNWAY 05L IN USE. [TL]. [NOTAMS]. [ARPT_COND]. [WIND]. [VIS]. [RVR]. [PRESENT_WX]. [CLOUDS]. [TEMP]. [DEW]. [PRESSURE]. ACKNOWLEDGE RECEIPT OF INFORMATION [ATIS_CODE] AND ADVISE AIRCRAFT TYPE ON FIRST CONTACT."
         },
         {
           "Name": "23 DUALS (MAN_CTR)",
-          "AirportConditions": "DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH LONDON CONTROL ON 133.2",
+          "AirportConditions": "DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH SCOTTISH CONTROL ON 133.2",
           "ArbitraryText": null,
           "Template": "THIS IS [FACILITY] INFORMATION [ATIS_CODE] AT TIME [OBS_TIME]. AUTOMATIC. DEPARTURE RUNWAY 23L. ARRIVAL RUNWAY 23R [TL]. [NOTAMS]. [ARPT_COND]. [WIND]. [VIS]. [RVR]. [PRESENT_WX]. [CLOUDS]. [TEMP]. [DEW]. [PRESSURE]. ACKNOWLEDGE RECEIPT OF INFORMATION [ATIS_CODE] AND ADVISE AIRCRAFT TYPE ON FIRST CONTACT."
         },
         {
           "Name": "05 DUALS (MAN_CTR)",
-          "AirportConditions": "DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH LONDON CONTROL ON 133.2",
+          "AirportConditions": "DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH SCOTTISH CONTROL ON 133.2",
           "ArbitraryText": null,
           "Template": "THIS IS [FACILITY] INFORMATION [ATIS_CODE] AT TIME [OBS_TIME]. AUTOMATIC. DEPARTURE RUNWAY 05L. ARRIVAL RUNWAY 05R [TL]. [NOTAMS]. [ARPT_COND]. [WIND]. [VIS]. [RVR]. [PRESENT_WX]. [CLOUDS]. [TEMP]. [DEW]. [PRESSURE]. ACKNOWLEDGE RECEIPT OF INFORMATION [ATIS_CODE] AND ADVISE AIRCRAFT TYPE ON FIRST CONTACT."
         },
         {
           "Name": "23R SRO (MAN_E_CTR)",
-          "AirportConditions": "SINGLE RUNWAY OPERATIONS. DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH LONDON CONTROL ON 133.8",
+          "AirportConditions": "SINGLE RUNWAY OPERATIONS. DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH SCOTTISH CONTROL ON 133.8",
           "ArbitraryText": null,
           "Template": "THIS IS [FACILITY] INFORMATION [ATIS_CODE] AT TIME [OBS_TIME]. AUTOMATIC. RUNWAY 23R IN USE. [TL]. [NOTAMS]. [ARPT_COND]. [WIND]. [VIS]. [RVR]. [PRESENT_WX]. [CLOUDS]. [TEMP]. [DEW]. [PRESSURE]. ACKNOWLEDGE RECEIPT OF INFORMATION [ATIS_CODE] AND ADVISE AIRCRAFT TYPE ON FIRST CONTACT."
         },
         {
           "Name": "05L SRO (MAN_E_CTR)",
-          "AirportConditions": "SINGLE RUNWAY OPERATIONS. DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH LONDON CONTROL ON 133.8",
+          "AirportConditions": "SINGLE RUNWAY OPERATIONS. DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH SCOTTISH CONTROL ON 133.8",
           "ArbitraryText": null,
           "Template": "THIS IS [FACILITY] INFORMATION [ATIS_CODE] AT TIME [OBS_TIME]. AUTOMATIC. RUNWAY 05L IN USE. [TL]. [NOTAMS]. [ARPT_COND]. [WIND]. [VIS]. [RVR]. [PRESENT_WX]. [CLOUDS]. [TEMP]. [DEW]. [PRESSURE]. ACKNOWLEDGE RECEIPT OF INFORMATION [ATIS_CODE] AND ADVISE AIRCRAFT TYPE ON FIRST CONTACT."
         },
         {
           "Name": "23 DUALS (MAN_E_CTR)",
-          "AirportConditions": "DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH LONDON CONTROL ON 133.8",
+          "AirportConditions": "DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH SCOTTISH CONTROL ON 133.8",
           "ArbitraryText": null,
           "Template": "THIS IS [FACILITY] INFORMATION [ATIS_CODE] AT TIME [OBS_TIME]. AUTOMATIC. DEPARTURE RUNWAY 23L. ARRIVAL RUNWAY 23R [TL]. [NOTAMS]. [ARPT_COND]. [WIND]. [VIS]. [RVR]. [PRESENT_WX]. [CLOUDS]. [TEMP]. [DEW]. [PRESSURE]. ACKNOWLEDGE RECEIPT OF INFORMATION [ATIS_CODE] AND ADVISE AIRCRAFT TYPE ON FIRST CONTACT."
         },
         {
           "Name": "05 DUALS (MAN_E_CTR)",
-          "AirportConditions": "DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH LONDON CONTROL ON 133.8",
+          "AirportConditions": "DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH SCOTTISH CONTROL ON 133.8",
           "ArbitraryText": null,
           "Template": "THIS IS [FACILITY] INFORMATION [ATIS_CODE] AT TIME [OBS_TIME]. AUTOMATIC. DEPARTURE RUNWAY 05L. ARRIVAL RUNWAY 05R [TL]. [NOTAMS]. [ARPT_COND]. [WIND]. [VIS]. [RVR]. [PRESENT_WX]. [CLOUDS]. [TEMP]. [DEW]. [PRESSURE]. ACKNOWLEDGE RECEIPT OF INFORMATION [ATIS_CODE] AND ADVISE AIRCRAFT TYPE ON FIRST CONTACT."
         },
         {
           "Name": "23R SRO (MAN_SE_CTR)",
-          "AirportConditions": "SINGLE RUNWAY OPERATIONS. DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH LONDON CONTROL ON 134.430",
+          "AirportConditions": "SINGLE RUNWAY OPERATIONS. DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH SCOTTISH CONTROL ON 134.430",
           "ArbitraryText": null,
           "Template": "THIS IS [FACILITY] INFORMATION [ATIS_CODE] AT TIME [OBS_TIME]. AUTOMATIC. RUNWAY 23R IN USE. [TL]. [NOTAMS]. [ARPT_COND]. [WIND]. [VIS]. [RVR]. [PRESENT_WX]. [CLOUDS]. [TEMP]. [DEW]. [PRESSURE]. ACKNOWLEDGE RECEIPT OF INFORMATION [ATIS_CODE] AND ADVISE AIRCRAFT TYPE ON FIRST CONTACT."
         },
         {
           "Name": "05L SRO (MAN_SE_CTR)",
-          "AirportConditions": "SINGLE RUNWAY OPERATIONS. DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH LONDON CONTROL ON 134.430",
+          "AirportConditions": "SINGLE RUNWAY OPERATIONS. DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH SCOTTISH CONTROL ON 134.430",
           "ArbitraryText": null,
           "Template": "THIS IS [FACILITY] INFORMATION [ATIS_CODE] AT TIME [OBS_TIME]. AUTOMATIC. RUNWAY 05L IN USE. [TL]. [NOTAMS]. [ARPT_COND]. [WIND]. [VIS]. [RVR]. [PRESENT_WX]. [CLOUDS]. [TEMP]. [DEW]. [PRESSURE]. ACKNOWLEDGE RECEIPT OF INFORMATION [ATIS_CODE] AND ADVISE AIRCRAFT TYPE ON FIRST CONTACT."
         },
         {
           "Name": "23 DUALS (MAN_SE_CTR)",
-          "AirportConditions": "DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH LONDON CONTROL ON 134.430",
+          "AirportConditions": "DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH SCOTTISH CONTROL ON 134.430",
           "ArbitraryText": null,
           "Template": "THIS IS [FACILITY] INFORMATION [ATIS_CODE] AT TIME [OBS_TIME]. AUTOMATIC. DEPARTURE RUNWAY 23L. ARRIVAL RUNWAY 23R [TL]. [NOTAMS]. [ARPT_COND]. [WIND]. [VIS]. [RVR]. [PRESENT_WX]. [CLOUDS]. [TEMP]. [DEW]. [PRESSURE]. ACKNOWLEDGE RECEIPT OF INFORMATION [ATIS_CODE] AND ADVISE AIRCRAFT TYPE ON FIRST CONTACT."
         },
         {
           "Name": "05 DUALS (MAN_SE_CTR)",
-          "AirportConditions": "DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH LONDON CONTROL ON 134.430",
+          "AirportConditions": "DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH SCOTTISH CONTROL ON 134.430",
           "ArbitraryText": null,
           "Template": "THIS IS [FACILITY] INFORMATION [ATIS_CODE] AT TIME [OBS_TIME]. AUTOMATIC. DEPARTURE RUNWAY 05L. ARRIVAL RUNWAY 05R [TL]. [NOTAMS]. [ARPT_COND]. [WIND]. [VIS]. [RVR]. [PRESENT_WX]. [CLOUDS]. [TEMP]. [DEW]. [PRESSURE]. ACKNOWLEDGE RECEIPT OF INFORMATION [ATIS_CODE] AND ADVISE AIRCRAFT TYPE ON FIRST CONTACT."
         }
-
       ],
       "Contractions": [
         {
@@ -135,7 +134,6 @@
           "string": "SRO",
           "spoken": "SINGLE RUNWAY OPERATIONS"
         }
-
       ],
       "AirportConditionDefinitions": [],
       "AirportConditionsBeforeFreeText": false,
@@ -358,34 +356,39 @@
         "transitionLevel": {
           "values": [
             {
-              "Low": 1050,
-              "High": 1060,
-              "Altitude": 50
+              "low": 940,
+              "high": 958,
+              "altitude": 80
             },
             {
-              "Low": 1032,
-              "High": 1049,
-              "Altitude": 55
+              "low": 959,
+              "high": 976,
+              "altitude": 75
             },
             {
-              "Low": 1014,
-              "High": 1031,
-              "Altitude": 60
+              "low": 977,
+              "high": 994,
+              "altitude": 70
             },
             {
-              "Low": 995,
-              "High": 1013,
-              "Altitude": 65
+              "low": 995,
+              "high": 1012,
+              "altitude": 65
             },
             {
-              "Low": 977,
-              "High": 994,
-              "Altitude": 70
+              "low": 1013,
+              "high": 1031,
+              "altitude": 60
             },
             {
-              "Low": 959,
-              "High": 976,
-              "Altitude": 75
+              "low": 1032,
+              "high": 1049,
+              "altitude": 55
+            },
+            {
+              "low": 1050,
+              "high": 1060,
+              "altitude": 50
             }
           ],
           "template": {
@@ -411,7 +414,7 @@
         "low": "A",
         "high": "Z"
       },
-      "AtisFrequency": 18375,
+      "AtisFrequency": 18380,
       "AtisVoice": {
         "UseTextToSpeech": true,
         "Voice": "UK Male"
@@ -424,41 +427,40 @@
       "Presets": [
         {
           "Name": "RUNWAY 25 (MAN_CTR)",
-          "AirportConditions": "DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH LONDON CONTROL ON 133.2",
+          "AirportConditions": "DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH SCOTTISH CONTROL ON 133.2",
           "ArbitraryText": null,
           "Template": "THIS IS [FACILITY] INFORMATION [ATIS_CODE] AT TIME [OBS_TIME]. AUTOMATIC. RUNWAY 25 IN USE. [TL]. [NOTAMS]. [ARPT_COND]. [WIND]. [VIS]. [RVR]. [PRESENT_WX]. [CLOUDS]. [TEMP]. [DEW]. [PRESSURE]. ACKNOWLEDGE RECEIPT OF INFORMATION [ATIS_CODE] AND ADVISE AIRCRAFT TYPE ON FIRST CONTACT."
         },
         {
           "Name": "RUNWAY 07 (MAN_CTR)",
-          "AirportConditions": "DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH LONDON CONTROL ON 133.2",
+          "AirportConditions": "DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH SCOTTISH CONTROL ON 133.2",
           "ArbitraryText": null,
           "Template": "THIS IS [FACILITY] INFORMATION [ATIS_CODE] AT TIME [OBS_TIME]. AUTOMATIC. RUNWAY 07 IN USE. [TL]. [NOTAMS]. [ARPT_COND]. [WIND]. [VIS]. [RVR]. [PRESENT_WX]. [CLOUDS]. [TEMP]. [DEW]. [PRESSURE]. ACKNOWLEDGE RECEIPT OF INFORMATION [ATIS_CODE] AND ADVISE AIRCRAFT TYPE ON FIRST CONTACT."
         },
         {
           "Name": "RUNWAY 25 (MAN_E_CTR)",
-          "AirportConditions": "SDEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH LONDON CONTROL ON 133.8",
+          "AirportConditions": "DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH SCOTTISH CONTROL ON 133.8",
           "ArbitraryText": null,
           "Template": "THIS IS [FACILITY] INFORMATION [ATIS_CODE] AT TIME [OBS_TIME]. AUTOMATIC. RUNWAY 25 IN USE. [TL]. [NOTAMS]. [ARPT_COND]. [WIND]. [VIS]. [RVR]. [PRESENT_WX]. [CLOUDS]. [TEMP]. [DEW]. [PRESSURE]. ACKNOWLEDGE RECEIPT OF INFORMATION [ATIS_CODE] AND ADVISE AIRCRAFT TYPE ON FIRST CONTACT."
         },
         {
           "Name": "RUNWAY 07 (MAN_E_CTR)",
-          "AirportConditions": "DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH LONDON CONTROL ON 133.8",
+          "AirportConditions": "DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH SCOTTISH CONTROL ON 133.8",
           "ArbitraryText": null,
           "Template": "THIS IS [FACILITY] INFORMATION [ATIS_CODE] AT TIME [OBS_TIME]. AUTOMATIC. RUNWAY 07 IN USE. [TL]. [NOTAMS]. [ARPT_COND]. [WIND]. [VIS]. [RVR]. [PRESENT_WX]. [CLOUDS]. [TEMP]. [DEW]. [PRESSURE]. ACKNOWLEDGE RECEIPT OF INFORMATION [ATIS_CODE] AND ADVISE AIRCRAFT TYPE ON FIRST CONTACT."
         },
         {
           "Name": "RUNWAY 25 (MAN_NE_CTR)",
-          "AirportConditions": "SDEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH LONDON CONTROL ON 135.715",
+          "AirportConditions": "DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH SCOTTISH CONTROL ON 135.715",
           "ArbitraryText": null,
           "Template": "THIS IS [FACILITY] INFORMATION [ATIS_CODE] AT TIME [OBS_TIME]. AUTOMATIC. RUNWAY 25 IN USE. [TL]. [NOTAMS]. [ARPT_COND]. [WIND]. [VIS]. [RVR]. [PRESENT_WX]. [CLOUDS]. [TEMP]. [DEW]. [PRESSURE]. ACKNOWLEDGE RECEIPT OF INFORMATION [ATIS_CODE] AND ADVISE AIRCRAFT TYPE ON FIRST CONTACT."
         },
         {
           "Name": "RUNWAY 07 (MAN_NE_CTR)",
-          "AirportConditions": "DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH LONDON CONTROL ON 135.715",
+          "AirportConditions": "DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH SCOTTISH CONTROL ON 135.715",
           "ArbitraryText": null,
           "Template": "THIS IS [FACILITY] INFORMATION [ATIS_CODE] AT TIME [OBS_TIME]. AUTOMATIC. RUNWAY 07 IN USE. [TL]. [NOTAMS]. [ARPT_COND]. [WIND]. [VIS]. [RVR]. [PRESENT_WX]. [CLOUDS]. [TEMP]. [DEW]. [PRESSURE]. ACKNOWLEDGE RECEIPT OF INFORMATION [ATIS_CODE] AND ADVISE AIRCRAFT TYPE ON FIRST CONTACT."
         }
-
       ],
       "Contractions": [
         {
@@ -501,7 +503,6 @@
           "string": "SRO",
           "spoken": "SINGLE RUNWAY OPERATIONS"
         }
-
       ],
       "AirportConditionDefinitions": [],
       "AirportConditionsBeforeFreeText": false,
@@ -724,34 +725,39 @@
         "transitionLevel": {
           "values": [
             {
-              "Low": 1050,
-              "High": 1060,
-              "Altitude": 60
+              "low": 940,
+              "high": 958,
+              "altitude": 90
             },
             {
-              "Low": 1032,
-              "High": 1049,
-              "Altitude": 65
+              "low": 959,
+              "high": 976,
+              "altitude": 85
             },
             {
-              "Low": 1014,
-              "High": 1031,
-              "Altitude": 70
+              "low": 977,
+              "high": 994,
+              "altitude": 80
             },
             {
-              "Low": 995,
-              "High": 1013,
-              "Altitude": 75
+              "low": 995,
+              "high": 1013,
+              "altitude": 75
             },
             {
-              "Low": 977,
-              "High": 994,
-              "Altitude": 80
+              "low": 1014,
+              "high": 1031,
+              "altitude": 70
             },
             {
-              "Low": 959,
-              "High": 976,
-              "Altitude": 85
+              "low": 1032,
+              "high": 1049,
+              "altitude": 65
+            },
+            {
+              "low": 1050,
+              "high": 1060,
+              "altitude": 60
             }
           ],
           "template": {
@@ -790,53 +796,52 @@
       "Presets": [
         {
           "Name": "RUNWAY 27 (MAN_CTR)",
-          "AirportConditions": "DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH LONDON CONTROL ON 133.2",
+          "AirportConditions": "DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH SCOTTISH CONTROL ON 133.2",
           "ArbitraryText": null,
           "Template": "THIS IS [FACILITY] INFORMATION [ATIS_CODE] AT TIME [OBS_TIME]. RUNWAY 27 IN USE. [TL]. [NOTAMS]. [ARPT_COND]. [WIND]. [VIS]. [RVR]. [PRESENT_WX]. [CLOUDS]. [TEMP]. [DEW]. [PRESSURE]. ACKNOWLEDGE RECEIPT OF INFORMATION [ATIS_CODE] AND ADVISE AIRCRAFT TYPE ON FIRST CONTACT."
         },
         {
           "Name": "RUNWAY 09 (MAN_CTR)",
-          "AirportConditions": "DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH LONDON CONTROL ON 133.2",
+          "AirportConditions": "DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH SCOTTISH CONTROL ON 133.2",
           "ArbitraryText": null,
           "Template": "THIS IS [FACILITY] INFORMATION [ATIS_CODE] AT TIME [OBS_TIME]. RUNWAY 09 IN USE. [TL]. [NOTAMS]. [ARPT_COND]. [WIND]. [VIS]. [RVR]. [PRESENT_WX]. [CLOUDS]. [TEMP]. [DEW]. [PRESSURE]. ACKNOWLEDGE RECEIPT OF INFORMATION [ATIS_CODE] AND ADVISE AIRCRAFT TYPE ON FIRST CONTACT."
         },
         {
           "Name": "RUNWAY 27 (MAN_W_CTR)",
-          "AirportConditions": "SDEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH LONDON CONTROL ON 128.055",
+          "AirportConditions": "DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH SCOTTISH CONTROL ON 128.055",
           "ArbitraryText": null,
           "Template": "THIS IS [FACILITY] INFORMATION [ATIS_CODE] AT TIME [OBS_TIME]. RUNWAY 27 IN USE. [TL]. [NOTAMS]. [ARPT_COND]. [WIND]. [VIS]. [RVR]. [PRESENT_WX]. [CLOUDS]. [TEMP]. [DEW]. [PRESSURE]. ACKNOWLEDGE RECEIPT OF INFORMATION [ATIS_CODE] AND ADVISE AIRCRAFT TYPE ON FIRST CONTACT."
         },
         {
           "Name": "RUNWAY 09 (MAN_W_CTR)",
-          "AirportConditions": "DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH LONDON CONTROL ON 128.055",
+          "AirportConditions": "DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH SCOTTISH CONTROL ON 128.055",
           "ArbitraryText": null,
           "Template": "THIS IS [FACILITY] INFORMATION [ATIS_CODE] AT TIME [OBS_TIME]. RUNWAY 09 IN USE. [TL]. [NOTAMS]. [ARPT_COND]. [WIND]. [VIS]. [RVR]. [PRESENT_WX]. [CLOUDS]. [TEMP]. [DEW]. [PRESSURE]. ACKNOWLEDGE RECEIPT OF INFORMATION [ATIS_CODE] AND ADVISE AIRCRAFT TYPE ON FIRST CONTACT."
         },
         {
           "Name": "RUNWAY 27 (MAN_WP_CTR)",
-          "AirportConditions": "SDEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH LONDON CONTROL ON 126.875",
+          "AirportConditions": "DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH SCOTTISH CONTROL ON 126.875",
           "ArbitraryText": null,
           "Template": "THIS IS [FACILITY] INFORMATION [ATIS_CODE] AT TIME [OBS_TIME]. RUNWAY 27 IN USE. [TL]. [NOTAMS]. [ARPT_COND]. [WIND]. [VIS]. [RVR]. [PRESENT_WX]. [CLOUDS]. [TEMP]. [DEW]. [PRESSURE]. ACKNOWLEDGE RECEIPT OF INFORMATION [ATIS_CODE] AND ADVISE AIRCRAFT TYPE ON FIRST CONTACT."
         },
         {
           "Name": "RUNWAY 09 (MAN_WP_CTR)",
-          "AirportConditions": "DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH LONDON CONTROL ON 126.875",
+          "AirportConditions": "DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH SCOTTISH CONTROL ON 126.875",
           "ArbitraryText": null,
           "Template": "THIS IS [FACILITY] INFORMATION [ATIS_CODE] AT TIME [OBS_TIME]. RUNWAY 09 IN USE. [TL]. [NOTAMS]. [ARPT_COND]. [WIND]. [VIS]. [RVR]. [PRESENT_WX]. [CLOUDS]. [TEMP]. [DEW]. [PRESSURE]. ACKNOWLEDGE RECEIPT OF INFORMATION [ATIS_CODE] AND ADVISE AIRCRAFT TYPE ON FIRST CONTACT."
         },
         {
           "Name": "RUNWAY 27 (MAN_WL_CTR)",
-          "AirportConditions": "SDEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH LONDON CONTROL ON 125.95",
+          "AirportConditions": "DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH SCOTTISH CONTROL ON 125.95",
           "ArbitraryText": null,
           "Template": "THIS IS [FACILITY] INFORMATION [ATIS_CODE] AT TIME [OBS_TIME]. RUNWAY 27 IN USE. [TL]. [NOTAMS]. [ARPT_COND]. [WIND]. [VIS]. [RVR]. [PRESENT_WX]. [CLOUDS]. [TEMP]. [DEW]. [PRESSURE]. ACKNOWLEDGE RECEIPT OF INFORMATION [ATIS_CODE] AND ADVISE AIRCRAFT TYPE ON FIRST CONTACT."
         },
         {
           "Name": "RUNWAY 09 (MAN_WL_CTR)",
-          "AirportConditions": "DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH LONDON CONTROL ON 125.95",
+          "AirportConditions": "DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH SCOTTISH CONTROL ON 125.95",
           "ArbitraryText": null,
           "Template": "THIS IS [FACILITY] INFORMATION [ATIS_CODE] AT TIME [OBS_TIME]. RUNWAY 09 IN USE. [TL]. [NOTAMS]. [ARPT_COND]. [WIND]. [VIS]. [RVR]. [PRESENT_WX]. [CLOUDS]. [TEMP]. [DEW]. [PRESSURE]. ACKNOWLEDGE RECEIPT OF INFORMATION [ATIS_CODE] AND ADVISE AIRCRAFT TYPE ON FIRST CONTACT."
         }
-
       ],
       "Contractions": [
         {
@@ -879,7 +884,6 @@
           "string": "SRO",
           "spoken": "SINGLE RUNWAY OPERATIONS"
         }
-
       ],
       "AirportConditionDefinitions": [],
       "AirportConditionsBeforeFreeText": false,
@@ -1102,34 +1106,39 @@
         "transitionLevel": {
           "values": [
             {
-              "Low": 1050,
-              "High": 1060,
-              "Altitude": 50
+              "low": 940,
+              "high": 958,
+              "altitude": 80
             },
             {
-              "Low": 1032,
-              "High": 1049,
-              "Altitude": 55
+              "low": 959,
+              "high": 976,
+              "altitude": 75
             },
             {
-              "Low": 1014,
-              "High": 1031,
-              "Altitude": 60
+              "low": 977,
+              "high": 994,
+              "altitude": 70
             },
             {
-              "Low": 995,
-              "High": 1013,
-              "Altitude": 65
+              "low": 995,
+              "high": 1012,
+              "altitude": 65
             },
             {
-              "Low": 977,
-              "High": 994,
-              "Altitude": 70
+              "low": 1013,
+              "high": 1031,
+              "altitude": 60
             },
             {
-              "Low": 959,
-              "High": 976,
-              "Altitude": 75
+              "low": 1032,
+              "high": 1049,
+              "altitude": 55
+            },
+            {
+              "low": 1050,
+              "high": 1060,
+              "altitude": 50
             }
           ],
           "template": {
@@ -1147,7 +1156,6 @@
       },
       "NotamsBeforeFreeText": false
     },
-
     {
       "Name": "Ronaldsway",
       "Identifier": "EGNS",
@@ -1156,7 +1164,7 @@
         "low": "A",
         "high": "Z"
       },
-      "AtisFrequency": 23875,
+      "AtisFrequency": 23880,
       "AtisVoice": {
         "UseTextToSpeech": true,
         "Voice": "UK Male"
@@ -1169,53 +1177,52 @@
       "Presets": [
         {
           "Name": "RUNWAY 26 (MAN_CTR)",
-          "AirportConditions": "RUNWAY 21/03 AVAILABLE ON REQUEST. DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH LONDON CONTROL ON 133.2",
+          "AirportConditions": "RUNWAY 21/03 AVAILABLE ON REQUEST. DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH SCOTTISH CONTROL ON 133.2",
           "ArbitraryText": null,
           "Template": "THIS IS [FACILITY] INFORMATION [ATIS_CODE] AT TIME [OBS_TIME]. RUNWAY 26 IN USE. [TL]. [NOTAMS]. [ARPT_COND]. [WIND]. [VIS]. [RVR]. [PRESENT_WX]. [CLOUDS]. [TEMP]. [DEW]. [PRESSURE]. ACKNOWLEDGE RECEIPT OF INFORMATION [ATIS_CODE] AND ADVISE AIRCRAFT TYPE ON FIRST CONTACT."
         },
         {
           "Name": "RUNWAY 08 (MAN_CTR)",
-          "AirportConditions": "RUNWAY 21/03 AVAILABLE ON REQUEST. DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH LONDON CONTROL ON 133.2",
+          "AirportConditions": "RUNWAY 21/03 AVAILABLE ON REQUEST. DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH SCOTTISH CONTROL ON 133.2",
           "ArbitraryText": null,
           "Template": "THIS IS [FACILITY] INFORMATION [ATIS_CODE] AT TIME [OBS_TIME]. RUNWAY 09 IN USE. [TL]. [NOTAMS]. [ARPT_COND]. [WIND]. [VIS]. [RVR]. [PRESENT_WX]. [CLOUDS]. [TEMP]. [DEW]. [PRESSURE]. ACKNOWLEDGE RECEIPT OF INFORMATION [ATIS_CODE] AND ADVISE AIRCRAFT TYPE ON FIRST CONTACT."
         },
         {
           "Name": "RUNWAY 26 (MAN_W_CTR)",
-          "AirportConditions": "RUNWAY 21/03 AVAILABLE ON REQUEST. DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH LONDON CONTROL ON 128.055",
+          "AirportConditions": "RUNWAY 21/03 AVAILABLE ON REQUEST. DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH SCOTTISH CONTROL ON 128.055",
           "ArbitraryText": null,
           "Template": "THIS IS [FACILITY] INFORMATION [ATIS_CODE] AT TIME [OBS_TIME]. RUNWAY 26 IN USE. [TL]. [NOTAMS]. [ARPT_COND]. [WIND]. [VIS]. [RVR]. [PRESENT_WX]. [CLOUDS]. [TEMP]. [DEW]. [PRESSURE]. ACKNOWLEDGE RECEIPT OF INFORMATION [ATIS_CODE] AND ADVISE AIRCRAFT TYPE ON FIRST CONTACT."
         },
         {
           "Name": "RUNWAY 08 (MAN_W_CTR)",
-          "AirportConditions": "RUNWAY 21/03 AVAILABLE ON REQUEST. DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH LONDON CONTROL ON 128.055",
+          "AirportConditions": "RUNWAY 21/03 AVAILABLE ON REQUEST. DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH SCOTTISH CONTROL ON 128.055",
           "ArbitraryText": null,
           "Template": "THIS IS [FACILITY] INFORMATION [ATIS_CODE] AT TIME [OBS_TIME]. RUNWAY 08 IN USE. [TL]. [NOTAMS]. [ARPT_COND]. [WIND]. [VIS]. [RVR]. [PRESENT_WX]. [CLOUDS]. [TEMP]. [DEW]. [PRESSURE]. ACKNOWLEDGE RECEIPT OF INFORMATION [ATIS_CODE] AND ADVISE AIRCRAFT TYPE ON FIRST CONTACT."
         },
         {
           "Name": "RUNWAY 26 (MAN_WP_CTR)",
-          "AirportConditions": "RUNWAY 21/03 AVAILABLE ON REQUEST. DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH LONDON CONTROL ON 126.875",
+          "AirportConditions": "RUNWAY 21/03 AVAILABLE ON REQUEST. DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH SCOTTISH CONTROL ON 126.875",
           "ArbitraryText": null,
           "Template": "THIS IS [FACILITY] INFORMATION [ATIS_CODE] AT TIME [OBS_TIME]. RUNWAY 26 IN USE. [TL]. [NOTAMS]. [ARPT_COND]. [WIND]. [VIS]. [RVR]. [PRESENT_WX]. [CLOUDS]. [TEMP]. [DEW]. [PRESSURE]. ACKNOWLEDGE RECEIPT OF INFORMATION [ATIS_CODE] AND ADVISE AIRCRAFT TYPE ON FIRST CONTACT."
         },
         {
           "Name": "RUNWAY 08 (MAN_WP_CTR)",
-          "AirportConditions": "RUNWAY 21/03 AVAILABLE ON REQUEST. DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH LONDON CONTROL ON 126.875",
+          "AirportConditions": "RUNWAY 21/03 AVAILABLE ON REQUEST. DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH SCOTTISH CONTROL ON 126.875",
           "ArbitraryText": null,
           "Template": "THIS IS [FACILITY] INFORMATION [ATIS_CODE] AT TIME [OBS_TIME]. RUNWAY 08 IN USE. [TL]. [NOTAMS]. [ARPT_COND]. [WIND]. [VIS]. [RVR]. [PRESENT_WX]. [CLOUDS]. [TEMP]. [DEW]. [PRESSURE]. ACKNOWLEDGE RECEIPT OF INFORMATION [ATIS_CODE] AND ADVISE AIRCRAFT TYPE ON FIRST CONTACT."
         },
         {
           "Name": "RUNWAY 26 (MAN_WI_CTR)",
-          "AirportConditions": "RUNWAY 21/03 AVAILABLE ON REQUEST. DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH LONDON CONTROL ON 133.050",
+          "AirportConditions": "RUNWAY 21/03 AVAILABLE ON REQUEST. DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH SCOTTISH CONTROL ON 133.050",
           "ArbitraryText": null,
           "Template": "THIS IS [FACILITY] INFORMATION [ATIS_CODE] AT TIME [OBS_TIME]. RUNWAY 26 IN USE. [TL]. [NOTAMS]. [ARPT_COND]. [WIND]. [VIS]. [RVR]. [PRESENT_WX]. [CLOUDS]. [TEMP]. [DEW]. [PRESSURE]. ACKNOWLEDGE RECEIPT OF INFORMATION [ATIS_CODE] AND ADVISE AIRCRAFT TYPE ON FIRST CONTACT."
         },
         {
           "Name": "RUNWAY 08 (MAN_WI_CTR)",
-          "AirportConditions": "RUNWAY 21/03 AVAILABLE ON REQUEST. DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH LONDON CONTROL ON 133.050",
+          "AirportConditions": "RUNWAY 21/03 AVAILABLE ON REQUEST. DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH SCOTTISH CONTROL ON 133.050",
           "ArbitraryText": null,
           "Template": "THIS IS [FACILITY] INFORMATION [ATIS_CODE] AT TIME [OBS_TIME]. RUNWAY 08 IN USE. [TL]. [NOTAMS]. [ARPT_COND]. [WIND]. [VIS]. [RVR]. [PRESENT_WX]. [CLOUDS]. [TEMP]. [DEW]. [PRESSURE]. ACKNOWLEDGE RECEIPT OF INFORMATION [ATIS_CODE] AND ADVISE AIRCRAFT TYPE ON FIRST CONTACT."
         }
-
       ],
       "Contractions": [
         {
@@ -1262,7 +1269,6 @@
           "String": "21/03",
           "Spoken": "TWO-ONE-ZERO-THREE"
         }
-
       ],
       "AirportConditionDefinitions": [],
       "AirportConditionsBeforeFreeText": false,
@@ -1485,34 +1491,39 @@
         "transitionLevel": {
           "values": [
             {
-              "Low": 1050,
-              "High": 1060,
-              "Altitude": 30
+              "low": 940,
+              "high": 958,
+              "altitude": 60
             },
             {
-              "Low": 1032,
-              "High": 1049,
-              "Altitude": 35
+              "low": 959,
+              "high": 976,
+              "altitude": 55
             },
             {
-              "Low": 1013,
-              "High": 1031,
-              "Altitude": 40
+              "low": 977,
+              "high": 994,
+              "altitude": 50
             },
             {
-              "Low": 995,
-              "High": 1012,
-              "Altitude": 45
+              "low": 995,
+              "high": 1013,
+              "altitude": 45
             },
             {
-              "Low": 977,
-              "High": 994,
-              "Altitude": 50
+              "low": 1014,
+              "high": 1031,
+              "altitude": 40
             },
             {
-              "Low": 959,
-              "High": 976,
-              "Altitude": 55
+              "low": 1032,
+              "high": 1049,
+              "altitude": 35
+            },
+            {
+              "low": 1050,
+              "high": 1060,
+              "altitude": 30
             }
           ],
           "template": {
@@ -1530,7 +1541,6 @@
       },
       "NotamsBeforeFreeText": false
     },
-
     {
       "Name": "Hawarden",
       "Identifier": "EGNR",
@@ -1539,7 +1549,7 @@
         "low": "A",
         "high": "Z"
       },
-      "AtisFrequency": 25425,
+      "AtisFrequency": 25430,
       "AtisVoice": {
         "UseTextToSpeech": true,
         "Voice": "UK Male"
@@ -1552,53 +1562,52 @@
       "Presets": [
         {
           "Name": "RUNWAY 22 (MAN_CTR)",
-          "AirportConditions": "DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH LONDON CONTROL ON 133.2",
+          "AirportConditions": "DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH SCOTTISH CONTROL ON 133.2",
           "ArbitraryText": null,
           "Template": "THIS IS [FACILITY] INFORMATION [ATIS_CODE] AT TIME [OBS_TIME]. RUNWAY 22 IN USE. [TL]. [NOTAMS]. [ARPT_COND]. [WIND]. [VIS]. [RVR]. [PRESENT_WX]. [CLOUDS]. [TEMP]. [DEW]. [PRESSURE]. ACKNOWLEDGE RECEIPT OF INFORMATION [ATIS_CODE] AND ADVISE AIRCRAFT TYPE ON FIRST CONTACT."
         },
         {
           "Name": "RUNWAY 04 (MAN_CTR)",
-          "AirportConditions": "DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH LONDON CONTROL ON 133.2",
+          "AirportConditions": "DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH SCOTTISH CONTROL ON 133.2",
           "ArbitraryText": null,
           "Template": "THIS IS [FACILITY] INFORMATION [ATIS_CODE] AT TIME [OBS_TIME]. RUNWAY 04 IN USE. [TL]. [NOTAMS]. [ARPT_COND]. [WIND]. [VIS]. [RVR]. [PRESENT_WX]. [CLOUDS]. [TEMP]. [DEW]. [PRESSURE]. ACKNOWLEDGE RECEIPT OF INFORMATION [ATIS_CODE] AND ADVISE AIRCRAFT TYPE ON FIRST CONTACT."
         },
         {
           "Name": "RUNWAY 22 (MAN_W_CTR)",
-          "AirportConditions": "DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH LONDON CONTROL ON 128.055",
+          "AirportConditions": "DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH SCOTTISH CONTROL ON 128.055",
           "ArbitraryText": null,
           "Template": "THIS IS [FACILITY] INFORMATION [ATIS_CODE] AT TIME [OBS_TIME]. RUNWAY 22 IN USE. [TL]. [NOTAMS]. [ARPT_COND]. [WIND]. [VIS]. [RVR]. [PRESENT_WX]. [CLOUDS]. [TEMP]. [DEW]. [PRESSURE]. ACKNOWLEDGE RECEIPT OF INFORMATION [ATIS_CODE] AND ADVISE AIRCRAFT TYPE ON FIRST CONTACT."
         },
         {
           "Name": "RUNWAY 04 (MAN_W_CTR)",
-          "AirportConditions": "DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH LONDON CONTROL ON 128.055",
+          "AirportConditions": "DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH SCOTTISH CONTROL ON 128.055",
           "ArbitraryText": null,
           "Template": "THIS IS [FACILITY] INFORMATION [ATIS_CODE] AT TIME [OBS_TIME]. RUNWAY 04 IN USE. [TL]. [NOTAMS]. [ARPT_COND]. [WIND]. [VIS]. [RVR]. [PRESENT_WX]. [CLOUDS]. [TEMP]. [DEW]. [PRESSURE]. ACKNOWLEDGE RECEIPT OF INFORMATION [ATIS_CODE] AND ADVISE AIRCRAFT TYPE ON FIRST CONTACT."
         },
         {
           "Name": "RUNWAY 22 (MAN_WP_CTR)",
-          "AirportConditions": "DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH LONDON CONTROL ON 126.875",
+          "AirportConditions": "DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH SCOTTISH CONTROL ON 126.875",
           "ArbitraryText": null,
           "Template": "THIS IS [FACILITY] INFORMATION [ATIS_CODE] AT TIME [OBS_TIME]. RUNWAY 22 IN USE. [TL]. [NOTAMS]. [ARPT_COND]. [WIND]. [VIS]. [RVR]. [PRESENT_WX]. [CLOUDS]. [TEMP]. [DEW]. [PRESSURE]. ACKNOWLEDGE RECEIPT OF INFORMATION [ATIS_CODE] AND ADVISE AIRCRAFT TYPE ON FIRST CONTACT."
         },
         {
           "Name": "RUNWAY 04 (MAN_WP_CTR)",
-          "AirportConditions": "DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH LONDON CONTROL ON 126.875",
+          "AirportConditions": "DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH SCOTTISH CONTROL ON 126.875",
           "ArbitraryText": null,
           "Template": "THIS IS [FACILITY] INFORMATION [ATIS_CODE] AT TIME [OBS_TIME]. RUNWAY 04 IN USE. [TL]. [NOTAMS]. [ARPT_COND]. [WIND]. [VIS]. [RVR]. [PRESENT_WX]. [CLOUDS]. [TEMP]. [DEW]. [PRESSURE]. ACKNOWLEDGE RECEIPT OF INFORMATION [ATIS_CODE] AND ADVISE AIRCRAFT TYPE ON FIRST CONTACT."
         },
         {
           "Name": "RUNWAY 22 (MAN_WL_CTR)",
-          "AirportConditions": "DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH LONDON CONTROL ON 125.950",
+          "AirportConditions": "DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH SCOTTISH CONTROL ON 125.950",
           "ArbitraryText": null,
           "Template": "THIS IS [FACILITY] INFORMATION [ATIS_CODE] AT TIME [OBS_TIME]. RUNWAY 22 IN USE. [TL]. [NOTAMS]. [ARPT_COND]. [WIND]. [VIS]. [RVR]. [PRESENT_WX]. [CLOUDS]. [TEMP]. [DEW]. [PRESSURE]. ACKNOWLEDGE RECEIPT OF INFORMATION [ATIS_CODE] AND ADVISE AIRCRAFT TYPE ON FIRST CONTACT."
         },
         {
           "Name": "RUNWAY 04 (MAN_WL_CTR)",
-          "AirportConditions": "DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH LONDON CONTROL ON 125.950",
+          "AirportConditions": "DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH SCOTTISH CONTROL ON 125.950",
           "ArbitraryText": null,
           "Template": "THIS IS [FACILITY] INFORMATION [ATIS_CODE] AT TIME [OBS_TIME]. RUNWAY 04 IN USE. [TL]. [NOTAMS]. [ARPT_COND]. [WIND]. [VIS]. [RVR]. [PRESENT_WX]. [CLOUDS]. [TEMP]. [DEW]. [PRESSURE]. ACKNOWLEDGE RECEIPT OF INFORMATION [ATIS_CODE] AND ADVISE AIRCRAFT TYPE ON FIRST CONTACT."
         }
-
       ],
       "Contractions": [
         {
@@ -1645,7 +1654,6 @@
           "String": "21/03",
           "Spoken": "TWO-ONE-ZERO-THREE"
         }
-
       ],
       "AirportConditionDefinitions": [],
       "AirportConditionsBeforeFreeText": false,
@@ -1868,34 +1876,39 @@
         "transitionLevel": {
           "values": [
             {
-              "Low": 1050,
-              "High": 1060,
-              "Altitude": 50
+              "low": 940,
+              "high": 958,
+              "altitude": 80
             },
             {
-              "Low": 1032,
-              "High": 1049,
-              "Altitude": 55
+              "low": 959,
+              "high": 976,
+              "altitude": 75
             },
             {
-              "Low": 1013,
-              "High": 1031,
-              "Altitude": 60
+              "low": 977,
+              "high": 994,
+              "altitude": 70
             },
             {
-              "Low": 995,
-              "High": 1012,
-              "Altitude": 65
+              "low": 995,
+              "high": 1012,
+              "altitude": 65
             },
             {
-              "Low": 977,
-              "High": 994,
-              "Altitude": 70
+              "low": 1013,
+              "high": 1031,
+              "altitude": 60
             },
             {
-              "Low": 959,
-              "High": 976,
-              "Altitude": 75
+              "low": 1032,
+              "high": 1049,
+              "altitude": 55
+            },
+            {
+              "low": 1050,
+              "high": 1060,
+              "altitude": 50
             }
           ],
           "template": {
@@ -1913,7 +1926,6 @@
       },
       "NotamsBeforeFreeText": false
     },
-
     {
       "Name": "Warton",
       "Identifier": "EGNO",
@@ -1922,7 +1934,7 @@
         "low": "A",
         "high": "Z"
       },
-      "AtisFrequency": 21725,
+      "AtisFrequency": 21730,
       "AtisVoice": {
         "UseTextToSpeech": true,
         "Voice": "UK Male"
@@ -1935,53 +1947,52 @@
       "Presets": [
         {
           "Name": "RUNWAY 25 (MAN_CTR)",
-          "AirportConditions": "ILS APPROACH TO BE EXPECTED. DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH LONDON CONTROL ON 133.2",
+          "AirportConditions": "ILS APPROACH TO BE EXPECTED. DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH SCOTTISH CONTROL ON 133.2",
           "ArbitraryText": null,
           "Template": "THIS IS [FACILITY] INFORMATION [ATIS_CODE] AT TIME [OBS_TIME]. RUNWAY 25 IN USE. [TL]. [NOTAMS]. [ARPT_COND]. [WIND]. [VIS]. [RVR]. [PRESENT_WX]. [CLOUDS]. [TEMP]. [DEW]. [PRESSURE]. ACKNOWLEDGE RECEIPT OF INFORMATION [ATIS_CODE] AND ADVISE AIRCRAFT TYPE ON FIRST CONTACT."
         },
         {
           "Name": "RUNWAY 07 (MAN_CTR)",
-          "AirportConditions": "NDB DME APPROACH TO BE EXPECTED. DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH LONDON CONTROL ON 133.2",
+          "AirportConditions": "NDB DME APPROACH TO BE EXPECTED. DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH SCOTTISH CONTROL ON 133.2",
           "ArbitraryText": null,
           "Template": "THIS IS [FACILITY] INFORMATION [ATIS_CODE] AT TIME [OBS_TIME]. RUNWAY 07 IN USE. [TL]. [NOTAMS]. [ARPT_COND]. [WIND]. [VIS]. [RVR]. [PRESENT_WX]. [CLOUDS]. [TEMP]. [DEW]. [PRESSURE]. ACKNOWLEDGE RECEIPT OF INFORMATION [ATIS_CODE] AND ADVISE AIRCRAFT TYPE ON FIRST CONTACT."
         },
         {
           "Name": "RUNWAY 25 (MAN_W_CTR)",
-          "AirportConditions": "ILS APPROACH TO BE EXPECTED. DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH LONDON CONTROL ON 128.055",
+          "AirportConditions": "ILS APPROACH TO BE EXPECTED. DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH SCOTTISH CONTROL ON 128.055",
           "ArbitraryText": null,
           "Template": "THIS IS [FACILITY] INFORMATION [ATIS_CODE] AT TIME [OBS_TIME]. RUNWAY 25 IN USE. [TL]. [NOTAMS]. [ARPT_COND]. [WIND]. [VIS]. [RVR]. [PRESENT_WX]. [CLOUDS]. [TEMP]. [DEW]. [PRESSURE]. ACKNOWLEDGE RECEIPT OF INFORMATION [ATIS_CODE] AND ADVISE AIRCRAFT TYPE ON FIRST CONTACT."
         },
         {
           "Name": "RUNWAY 07 (MAN_W_CTR)",
-          "AirportConditions": "NDB DME APPROACH TO BE EXPECTED. DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH LONDON CONTROL ON 128.055",
+          "AirportConditions": "NDB DME APPROACH TO BE EXPECTED. DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH SCOTTISH CONTROL ON 128.055",
           "ArbitraryText": null,
           "Template": "THIS IS [FACILITY] INFORMATION [ATIS_CODE] AT TIME [OBS_TIME]. RUNWAY 07 IN USE. [TL]. [NOTAMS]. [ARPT_COND]. [WIND]. [VIS]. [RVR]. [PRESENT_WX]. [CLOUDS]. [TEMP]. [DEW]. [PRESSURE]. ACKNOWLEDGE RECEIPT OF INFORMATION [ATIS_CODE] AND ADVISE AIRCRAFT TYPE ON FIRST CONTACT."
         },
         {
           "Name": "RUNWAY 25 (MAN_WP_CTR)",
-          "AirportConditions": "ILS APPROACH TO BE EXPECTED. DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH LONDON CONTROL ON 126.875",
+          "AirportConditions": "ILS APPROACH TO BE EXPECTED. DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH SCOTTISH CONTROL ON 126.875",
           "ArbitraryText": null,
           "Template": "THIS IS [FACILITY] INFORMATION [ATIS_CODE] AT TIME [OBS_TIME]. RUNWAY 25 IN USE. [TL]. [NOTAMS]. [ARPT_COND]. [WIND]. [VIS]. [RVR]. [PRESENT_WX]. [CLOUDS]. [TEMP]. [DEW]. [PRESSURE]. ACKNOWLEDGE RECEIPT OF INFORMATION [ATIS_CODE] AND ADVISE AIRCRAFT TYPE ON FIRST CONTACT."
         },
         {
           "Name": "RUNWAY 07 (MAN_WP_CTR)",
-          "AirportConditions": "NDB DME APPROACH TO BE EXPECTED. DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH LONDON CONTROL ON 126.875",
+          "AirportConditions": "NDB DME APPROACH TO BE EXPECTED. DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH SCOTTISH CONTROL ON 126.875",
           "ArbitraryText": null,
           "Template": "THIS IS [FACILITY] INFORMATION [ATIS_CODE] AT TIME [OBS_TIME]. RUNWAY 07 IN USE. [TL]. [NOTAMS]. [ARPT_COND]. [WIND]. [VIS]. [RVR]. [PRESENT_WX]. [CLOUDS]. [TEMP]. [DEW]. [PRESSURE]. ACKNOWLEDGE RECEIPT OF INFORMATION [ATIS_CODE] AND ADVISE AIRCRAFT TYPE ON FIRST CONTACT."
         },
         {
           "Name": "RUNWAY 25 (MAN_WI_CTR)",
-          "AirportConditions": "ILS APPROACH TO BE EXPECTED. DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH LONDON CONTROL ON 133.050",
+          "AirportConditions": "ILS APPROACH TO BE EXPECTED. DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH SCOTTISH CONTROL ON 133.050",
           "ArbitraryText": null,
           "Template": "THIS IS [FACILITY] INFORMATION [ATIS_CODE] AT TIME [OBS_TIME]. RUNWAY 25 IN USE. [TL]. [NOTAMS]. [ARPT_COND]. [WIND]. [VIS]. [RVR]. [PRESENT_WX]. [CLOUDS]. [TEMP]. [DEW]. [PRESSURE]. ACKNOWLEDGE RECEIPT OF INFORMATION [ATIS_CODE] AND ADVISE AIRCRAFT TYPE ON FIRST CONTACT."
         },
         {
           "Name": "RUNWAY 07 (MAN_WI_CTR)",
-          "AirportConditions": "NDB DME APPROACH TO BE EXPECTED. DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH LONDON CONTROL ON 133.050",
+          "AirportConditions": "NDB DME APPROACH TO BE EXPECTED. DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH SCOTTISH CONTROL ON 133.050",
           "ArbitraryText": null,
           "Template": "THIS IS [FACILITY] INFORMATION [ATIS_CODE] AT TIME [OBS_TIME]. RUNWAY 07 IN USE. [TL]. [NOTAMS]. [ARPT_COND]. [WIND]. [VIS]. [RVR]. [PRESENT_WX]. [CLOUDS]. [TEMP]. [DEW]. [PRESSURE]. ACKNOWLEDGE RECEIPT OF INFORMATION [ATIS_CODE] AND ADVISE AIRCRAFT TYPE ON FIRST CONTACT."
         }
-
       ],
       "Contractions": [
         {
@@ -2028,7 +2039,6 @@
           "String": "21/03",
           "Spoken": "TWO-ONE-ZERO-THREE"
         }
-
       ],
       "AirportConditionDefinitions": [],
       "AirportConditionsBeforeFreeText": false,
@@ -2246,34 +2256,39 @@
         "transitionLevel": {
           "values": [
             {
-              "Low": 1050,
-              "High": 1060,
-              "Altitude": 50
+              "low": 940,
+              "high": 958,
+              "altitude": 60
             },
             {
-              "Low": 1032,
-              "High": 1049,
-              "Altitude": 55
+              "low": 959,
+              "high": 976,
+              "altitude": 55
             },
             {
-              "Low": 1013,
-              "High": 1031,
-              "Altitude": 60
+              "low": 977,
+              "high": 994,
+              "altitude": 50
             },
             {
-              "Low": 995,
-              "High": 1012,
-              "Altitude": 65
+              "low": 995,
+              "high": 1013,
+              "altitude": 45
             },
             {
-              "Low": 977,
-              "High": 994,
-              "Altitude": 70
+              "low": 1014,
+              "high": 1031,
+              "altitude": 40
             },
             {
-              "Low": 959,
-              "High": 976,
-              "Altitude": 75
+              "low": 1032,
+              "high": 1049,
+              "altitude": 35
+            },
+            {
+              "low": 1050,
+              "high": 1060,
+              "altitude": 30
             }
           ],
           "template": {
@@ -2291,7 +2306,6 @@
       },
       "NotamsBeforeFreeText": false
     },
-
     {
       "Name": "Blackpool",
       "Identifier": "EGNH",
@@ -2300,7 +2314,7 @@
         "low": "A",
         "high": "Z"
       },
-      "AtisFrequency": 27200,
+      "AtisFrequency": 27205,
       "AtisVoice": {
         "UseTextToSpeech": true,
         "Voice": "UK Male"
@@ -2313,53 +2327,52 @@
       "Presets": [
         {
           "Name": "RUNWAY 28 (MAN_CTR)",
-          "AirportConditions": "ILS APPROACH TO BE EXPECTED. DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH LONDON CONTROL ON 133.2",
+          "AirportConditions": "ILS APPROACH TO BE EXPECTED. DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH SCOTTISH CONTROL ON 133.2",
           "ArbitraryText": null,
           "Template": "THIS IS [FACILITY] INFORMATION [ATIS_CODE] AT TIME [OBS_TIME]. RUNWAY 28 IN USE. [TL]. [NOTAMS]. [ARPT_COND]. [WIND]. [VIS]. [RVR]. [PRESENT_WX]. [CLOUDS]. [TEMP]. [DEW]. [PRESSURE]. ACKNOWLEDGE RECEIPT OF INFORMATION [ATIS_CODE] AND ADVISE AIRCRAFT TYPE ON FIRST CONTACT."
         },
         {
           "Name": "RUNWAY 10 (MAN_CTR)",
-          "AirportConditions": "NDB DME APPROACH TO BE EXPECTED. DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH LONDON CONTROL ON 133.2",
+          "AirportConditions": "NDB DME APPROACH TO BE EXPECTED. DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH SCOTTISH CONTROL ON 133.2",
           "ArbitraryText": null,
           "Template": "THIS IS [FACILITY] INFORMATION [ATIS_CODE] AT TIME [OBS_TIME]. RUNWAY 07 IN USE. [TL]. [NOTAMS]. [ARPT_COND]. [WIND]. [VIS]. [RVR]. [PRESENT_WX]. [CLOUDS]. [TEMP]. [DEW]. [PRESSURE]. ACKNOWLEDGE RECEIPT OF INFORMATION [ATIS_CODE] AND ADVISE AIRCRAFT TYPE ON FIRST CONTACT."
         },
         {
           "Name": "RUNWAY 28 (MAN_W_CTR)",
-          "AirportConditions": "ILS APPROACH TO BE EXPECTED. DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH LONDON CONTROL ON 128.055",
+          "AirportConditions": "ILS APPROACH TO BE EXPECTED. DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH SCOTTISH CONTROL ON 128.055",
           "ArbitraryText": null,
           "Template": "THIS IS [FACILITY] INFORMATION [ATIS_CODE] AT TIME [OBS_TIME]. RUNWAY 28 IN USE. [TL]. [NOTAMS]. [ARPT_COND]. [WIND]. [VIS]. [RVR]. [PRESENT_WX]. [CLOUDS]. [TEMP]. [DEW]. [PRESSURE]. ACKNOWLEDGE RECEIPT OF INFORMATION [ATIS_CODE] AND ADVISE AIRCRAFT TYPE ON FIRST CONTACT."
         },
         {
           "Name": "RUNWAY 10 (MAN_W_CTR)",
-          "AirportConditions": "NDB DME APPROACH TO BE EXPECTED. DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH LONDON CONTROL ON 128.055",
+          "AirportConditions": "NDB DME APPROACH TO BE EXPECTED. DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH SCOTTISH CONTROL ON 128.055",
           "ArbitraryText": null,
           "Template": "THIS IS [FACILITY] INFORMATION [ATIS_CODE] AT TIME [OBS_TIME]. RUNWAY 10 IN USE. [TL]. [NOTAMS]. [ARPT_COND]. [WIND]. [VIS]. [RVR]. [PRESENT_WX]. [CLOUDS]. [TEMP]. [DEW]. [PRESSURE]. ACKNOWLEDGE RECEIPT OF INFORMATION [ATIS_CODE] AND ADVISE AIRCRAFT TYPE ON FIRST CONTACT."
         },
         {
           "Name": "RUNWAY 28 (MAN_WP_CTR)",
-          "AirportConditions": "ILS APPROACH TO BE EXPECTED. DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH LONDON CONTROL ON 126.875",
+          "AirportConditions": "ILS APPROACH TO BE EXPECTED. DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH SCOTTISH CONTROL ON 126.875",
           "ArbitraryText": null,
           "Template": "THIS IS [FACILITY] INFORMATION [ATIS_CODE] AT TIME [OBS_TIME]. RUNWAY 28 IN USE. [TL]. [NOTAMS]. [ARPT_COND]. [WIND]. [VIS]. [RVR]. [PRESENT_WX]. [CLOUDS]. [TEMP]. [DEW]. [PRESSURE]. ACKNOWLEDGE RECEIPT OF INFORMATION [ATIS_CODE] AND ADVISE AIRCRAFT TYPE ON FIRST CONTACT."
         },
         {
           "Name": "RUNWAY 10 (MAN_WP_CTR)",
-          "AirportConditions": "NDB DME APPROACH TO BE EXPECTED. DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH LONDON CONTROL ON 126.875",
+          "AirportConditions": "NDB DME APPROACH TO BE EXPECTED. DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH SCOTTISH CONTROL ON 126.875",
           "ArbitraryText": null,
           "Template": "THIS IS [FACILITY] INFORMATION [ATIS_CODE] AT TIME [OBS_TIME]. RUNWAY 10 IN USE. [TL]. [NOTAMS]. [ARPT_COND]. [WIND]. [VIS]. [RVR]. [PRESENT_WX]. [CLOUDS]. [TEMP]. [DEW]. [PRESSURE]. ACKNOWLEDGE RECEIPT OF INFORMATION [ATIS_CODE] AND ADVISE AIRCRAFT TYPE ON FIRST CONTACT."
         },
         {
           "Name": "RUNWAY 28 (MAN_WI_CTR)",
-          "AirportConditions": "ILS APPROACH TO BE EXPECTED. DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH LONDON CONTROL ON 133.050",
+          "AirportConditions": "ILS APPROACH TO BE EXPECTED. DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH SCOTTISH CONTROL ON 133.050",
           "ArbitraryText": null,
           "Template": "THIS IS [FACILITY] INFORMATION [ATIS_CODE] AT TIME [OBS_TIME]. RUNWAY 28 IN USE. [TL]. [NOTAMS]. [ARPT_COND]. [WIND]. [VIS]. [RVR]. [PRESENT_WX]. [CLOUDS]. [TEMP]. [DEW]. [PRESSURE]. ACKNOWLEDGE RECEIPT OF INFORMATION [ATIS_CODE] AND ADVISE AIRCRAFT TYPE ON FIRST CONTACT."
         },
         {
           "Name": "RUNWAY 10 (MAN_WI_CTR)",
-          "AirportConditions": "NDB DME APPROACH TO BE EXPECTED. DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH LONDON CONTROL ON 133.050",
+          "AirportConditions": "NDB DME APPROACH TO BE EXPECTED. DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH SCOTTISH CONTROL ON 133.050",
           "ArbitraryText": null,
           "Template": "THIS IS [FACILITY] INFORMATION [ATIS_CODE] AT TIME [OBS_TIME]. RUNWAY 10 IN USE. [TL]. [NOTAMS]. [ARPT_COND]. [WIND]. [VIS]. [RVR]. [PRESENT_WX]. [CLOUDS]. [TEMP]. [DEW]. [PRESSURE]. ACKNOWLEDGE RECEIPT OF INFORMATION [ATIS_CODE] AND ADVISE AIRCRAFT TYPE ON FIRST CONTACT."
         }
-
       ],
       "Contractions": [
         {
@@ -2406,7 +2419,6 @@
           "String": "21/03",
           "Spoken": "TWO-ONE-ZERO-THREE"
         }
-
       ],
       "AirportConditionDefinitions": [],
       "AirportConditionsBeforeFreeText": false,
@@ -2624,34 +2636,39 @@
         "transitionLevel": {
           "values": [
             {
-              "Low": 1050,
-              "High": 1060,
-              "Altitude": 50
+              "low": 940,
+              "high": 958,
+              "altitude": 60
             },
             {
-              "Low": 1032,
-              "High": 1049,
-              "Altitude": 55
+              "low": 959,
+              "high": 976,
+              "altitude": 55
             },
             {
-              "Low": 1013,
-              "High": 1031,
-              "Altitude": 60
+              "low": 977,
+              "high": 994,
+              "altitude": 50
             },
             {
-              "Low": 995,
-              "High": 1012,
-              "Altitude": 65
+              "low": 995,
+              "high": 1013,
+              "altitude": 45
             },
             {
-              "Low": 977,
-              "High": 994,
-              "Altitude": 70
+              "low": 1014,
+              "high": 1031,
+              "altitude": 40
             },
             {
-              "Low": 959,
-              "High": 976,
-              "Altitude": 75
+              "low": 1032,
+              "high": 1049,
+              "altitude": 35
+            },
+            {
+              "low": 1050,
+              "high": 1060,
+              "altitude": 30
             }
           ],
           "template": {
@@ -2669,7 +2686,6 @@
       },
       "NotamsBeforeFreeText": false
     },
-
     {
       "Name": "Leeds Bradford",
       "Identifier": "EGNM",
@@ -2678,7 +2694,7 @@
         "low": "A",
         "high": "Z"
       },
-      "AtisFrequency": 18025,
+      "AtisFrequency": 18030,
       "AtisVoice": {
         "UseTextToSpeech": true,
         "Voice": "UK Male"
@@ -2691,41 +2707,40 @@
       "Presets": [
         {
           "Name": "RUNWAY 32 (MAN_CTR)",
-          "AirportConditions": "DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH LONDON CONTROL ON 133.705",
+          "AirportConditions": "DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH SCOTTISH CONTROL ON 133.2",
           "ArbitraryText": null,
           "Template": "THIS IS [FACILITY] INFORMATION [ATIS_CODE] AT TIME [OBS_TIME]. RUNWAY 32 IN USE. [TL]. [NOTAMS]. [ARPT_COND]. [WIND]. [VIS]. [RVR]. [PRESENT_WX]. [CLOUDS]. [TEMP]. [DEW]. [PRESSURE]. ACKNOWLEDGE RECEIPT OF INFORMATION [ATIS_CODE] AND ADVISE AIRCRAFT TYPE ON FIRST CONTACT."
         },
         {
           "Name": "RUNWAY 14 (MAN_CTR)",
-          "AirportConditions": "DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH LONDON CONTROL ON 133.705",
+          "AirportConditions": "DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH SCOTTISH CONTROL ON 133.2",
           "ArbitraryText": null,
           "Template": "THIS IS [FACILITY] INFORMATION [ATIS_CODE] AT TIME [OBS_TIME]. RUNWAY 14 IN USE. [TL]. [NOTAMS]. [ARPT_COND]. [WIND]. [VIS]. [RVR]. [PRESENT_WX]. [CLOUDS]. [TEMP]. [DEW]. [PRESSURE]. ACKNOWLEDGE RECEIPT OF INFORMATION [ATIS_CODE] AND ADVISE AIRCRAFT TYPE ON FIRST CONTACT."
         },
         {
           "Name": "RUNWAY 32 (MAN_E_CTR)",
-          "AirportConditions": "DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH LONDON CONTROL ON 133.8",
+          "AirportConditions": "DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH SCOTTISH CONTROL ON 133.8",
           "ArbitraryText": null,
           "Template": "THIS IS [FACILITY] INFORMATION [ATIS_CODE] AT TIME [OBS_TIME]. RUNWAY 32 IN USE. [TL]. [NOTAMS]. [ARPT_COND]. [WIND]. [VIS]. [RVR]. [PRESENT_WX]. [CLOUDS]. [TEMP]. [DEW]. [PRESSURE]. ACKNOWLEDGE RECEIPT OF INFORMATION [ATIS_CODE] AND ADVISE AIRCRAFT TYPE ON FIRST CONTACT."
         },
         {
           "Name": "RUNWAY 14 (MAN_E_CTR)",
-          "AirportConditions": "DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH LONDON CONTROL ON 133.8",
+          "AirportConditions": "DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH SCOTTISH CONTROL ON 133.8",
           "ArbitraryText": null,
           "Template": "THIS IS [FACILITY] INFORMATION [ATIS_CODE] AT TIME [OBS_TIME]. RUNWAY 14 IN USE. [TL]. [NOTAMS]. [ARPT_COND]. [WIND]. [VIS]. [RVR]. [PRESENT_WX]. [CLOUDS]. [TEMP]. [DEW]. [PRESSURE]. ACKNOWLEDGE RECEIPT OF INFORMATION [ATIS_CODE] AND ADVISE AIRCRAFT TYPE ON FIRST CONTACT."
         },
         {
           "Name": "RUNWAY 32 (MAN_NE_CTR)",
-          "AirportConditions": "DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH LONDON CONTROL ON 135.715",
+          "AirportConditions": "DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH SCOTTISH CONTROL ON 135.715",
           "ArbitraryText": null,
           "Template": "THIS IS [FACILITY] INFORMATION [ATIS_CODE] AT TIME [OBS_TIME]. RUNWAY 32 IN USE. [TL]. [NOTAMS]. [ARPT_COND]. [WIND]. [VIS]. [RVR]. [PRESENT_WX]. [CLOUDS]. [TEMP]. [DEW]. [PRESSURE]. ACKNOWLEDGE RECEIPT OF INFORMATION [ATIS_CODE] AND ADVISE AIRCRAFT TYPE ON FIRST CONTACT."
         },
         {
           "Name": "RUNWAY 14 (MAN_NE_CTR)",
-          "AirportConditions": "DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH LONDON CONTROL ON 135.715",
+          "AirportConditions": "DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH SCOTTISH CONTROL ON 135.715",
           "ArbitraryText": null,
           "Template": "THIS IS [FACILITY] INFORMATION [ATIS_CODE] AT TIME [OBS_TIME]. RUNWAY 14 IN USE. [TL]. [NOTAMS]. [ARPT_COND]. [WIND]. [VIS]. [RVR]. [PRESENT_WX]. [CLOUDS]. [TEMP]. [DEW]. [PRESSURE]. ACKNOWLEDGE RECEIPT OF INFORMATION [ATIS_CODE] AND ADVISE AIRCRAFT TYPE ON FIRST CONTACT."
         }
-
       ],
       "Contractions": [
         {
@@ -2772,7 +2787,6 @@
           "String": "21/03",
           "Spoken": "TWO-ONE-ZERO-THREE"
         }
-
       ],
       "AirportConditionDefinitions": [],
       "AirportConditionsBeforeFreeText": false,
@@ -2995,34 +3009,39 @@
         "transitionLevel": {
           "values": [
             {
-              "Low": 1050,
-              "High": 1060,
-              "Altitude": 50
+              "low": 940,
+              "high": 958,
+              "altitude": 80
             },
             {
-              "Low": 1032,
-              "High": 1049,
-              "Altitude": 55
+              "low": 959,
+              "high": 976,
+              "altitude": 75
             },
             {
-              "Low": 1013,
-              "High": 1031,
-              "Altitude": 60
+              "low": 977,
+              "high": 994,
+              "altitude": 70
             },
             {
-              "Low": 995,
-              "High": 1012,
-              "Altitude": 65
+              "low": 995,
+              "high": 1012,
+              "altitude": 65
             },
             {
-              "Low": 977,
-              "High": 994,
-              "Altitude": 70
+              "low": 1013,
+              "high": 1031,
+              "altitude": 60
             },
             {
-              "Low": 959,
-              "High": 976,
-              "Altitude": 75
+              "low": 1032,
+              "high": 1049,
+              "altitude": 55
+            },
+            {
+              "low": 1050,
+              "high": 1060,
+              "altitude": 50
             }
           ],
           "template": {
@@ -3040,7 +3059,6 @@
       },
       "NotamsBeforeFreeText": false
     },
-
     {
       "Name": "Humberside",
       "Identifier": "EGNJ",
@@ -3049,7 +3067,7 @@
         "low": "A",
         "high": "Z"
       },
-      "AtisFrequency": 24125,
+      "AtisFrequency": 24130,
       "AtisVoice": {
         "UseTextToSpeech": true,
         "Voice": "UK Male"
@@ -3062,41 +3080,40 @@
       "Presets": [
         {
           "Name": "RUNWAY 20 (MAN_CTR)",
-          "AirportConditions": "EXPECT AN ILS APPROACH. DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH LONDON CONTROL ON 133.2",
+          "AirportConditions": "EXPECT AN ILS APPROACH. DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH SCOTTISH CONTROL ON 133.2",
           "ArbitraryText": null,
           "Template": "THIS IS [FACILITY] INFORMATION [ATIS_CODE] AT TIME [OBS_TIME]. RUNWAY 20 IN USE. [TL]. [NOTAMS]. [ARPT_COND]. [WIND]. [VIS]. [RVR]. [PRESENT_WX]. [CLOUDS]. [TEMP]. [DEW]. [PRESSURE]. ACKNOWLEDGE RECEIPT OF INFORMATION [ATIS_CODE] AND ADVISE AIRCRAFT TYPE ON FIRST CONTACT."
         },
         {
           "Name": "RUNWAY 02 (MAN_CTR)",
-          "AirportConditions": "EXPECT AN RNP APPROACH. DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH LONDON CONTROL ON 133.2",
+          "AirportConditions": "EXPECT AN RNP APPROACH. DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH SCOTTISH CONTROL ON 133.2",
           "ArbitraryText": null,
           "Template": "THIS IS [FACILITY] INFORMATION [ATIS_CODE] AT TIME [OBS_TIME]. RUNWAY 02 IN USE. [TL]. [NOTAMS]. [ARPT_COND]. [WIND]. [VIS]. [RVR]. [PRESENT_WX]. [CLOUDS]. [TEMP]. [DEW]. [PRESSURE]. ACKNOWLEDGE RECEIPT OF INFORMATION [ATIS_CODE] AND ADVISE AIRCRAFT TYPE ON FIRST CONTACT."
         },
         {
           "Name": "RUNWAY 20 (MAN_E_CTR)",
-          "AirportConditions": "EXPECT AN ILS APPROACH. DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH LONDON CONTROL ON 133.8",
+          "AirportConditions": "EXPECT AN ILS APPROACH. DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH SCOTTISH CONTROL ON 133.8",
           "ArbitraryText": null,
           "Template": "THIS IS [FACILITY] INFORMATION [ATIS_CODE] AT TIME [OBS_TIME]. RUNWAY 20 IN USE. [TL]. [NOTAMS]. [ARPT_COND]. [WIND]. [VIS]. [RVR]. [PRESENT_WX]. [CLOUDS]. [TEMP]. [DEW]. [PRESSURE]. ACKNOWLEDGE RECEIPT OF INFORMATION [ATIS_CODE] AND ADVISE AIRCRAFT TYPE ON FIRST CONTACT."
         },
         {
           "Name": "RUNWAY 02 (MAN_E_CTR)",
-          "AirportConditions": "EXPECT AN RNP APPROACH. DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH LONDON CONTROL ON 133.8",
+          "AirportConditions": "EXPECT AN RNP APPROACH. DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH SCOTTISH CONTROL ON 133.8",
           "ArbitraryText": null,
           "Template": "THIS IS [FACILITY] INFORMATION [ATIS_CODE] AT TIME [OBS_TIME]. RUNWAY 02 IN USE. [TL]. [NOTAMS]. [ARPT_COND]. [WIND]. [VIS]. [RVR]. [PRESENT_WX]. [CLOUDS]. [TEMP]. [DEW]. [PRESSURE]. ACKNOWLEDGE RECEIPT OF INFORMATION [ATIS_CODE] AND ADVISE AIRCRAFT TYPE ON FIRST CONTACT."
         },
         {
           "Name": "RUNWAY 20 (MAN_NE_CTR)",
-          "AirportConditions": "EXPECT AN ILS APPROACH. DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH LONDON CONTROL ON 135.715",
+          "AirportConditions": "EXPECT AN ILS APPROACH. DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH SCOTTISH CONTROL ON 135.715",
           "ArbitraryText": null,
           "Template": "THIS IS [FACILITY] INFORMATION [ATIS_CODE] AT TIME [OBS_TIME]. RUNWAY 20 IN USE. [TL]. [NOTAMS]. [ARPT_COND]. [WIND]. [VIS]. [RVR]. [PRESENT_WX]. [CLOUDS]. [TEMP]. [DEW]. [PRESSURE]. ACKNOWLEDGE RECEIPT OF INFORMATION [ATIS_CODE] AND ADVISE AIRCRAFT TYPE ON FIRST CONTACT."
         },
         {
           "Name": "RUNWAY 02 (MAN_NE_CTR)",
-          "AirportConditions": "EXPECT AN RNP APPROACH. DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH LONDON CONTROL ON 135.715",
+          "AirportConditions": "EXPECT AN RNP APPROACH. DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH SCOTTISH CONTROL ON 135.715",
           "ArbitraryText": null,
           "Template": "THIS IS [FACILITY] INFORMATION [ATIS_CODE] AT TIME [OBS_TIME]. RUNWAY 02 IN USE. [TL]. [NOTAMS]. [ARPT_COND]. [WIND]. [VIS]. [RVR]. [PRESENT_WX]. [CLOUDS]. [TEMP]. [DEW]. [PRESSURE]. ACKNOWLEDGE RECEIPT OF INFORMATION [ATIS_CODE] AND ADVISE AIRCRAFT TYPE ON FIRST CONTACT."
         }
-
       ],
       "Contractions": [
         {
@@ -3143,7 +3160,6 @@
           "String": "21/03",
           "Spoken": "TWO-ONE-ZERO-THREE"
         }
-
       ],
       "AirportConditionDefinitions": [],
       "AirportConditionsBeforeFreeText": false,
@@ -3366,34 +3382,39 @@
         "transitionLevel": {
           "values": [
             {
-              "Low": 1050,
-              "High": 1060,
-              "Altitude": 20
+              "low": 940,
+              "high": 958,
+              "altitude": 60
             },
             {
-              "Low": 1032,
-              "High": 1049,
-              "Altitude": 25
+              "low": 959,
+              "high": 976,
+              "altitude": 55
             },
             {
-              "Low": 1013,
-              "High": 1031,
-              "Altitude": 30
+              "low": 977,
+              "high": 994,
+              "altitude": 50
             },
             {
-              "Low": 995,
-              "High": 1012,
-              "Altitude": 35
+              "low": 995,
+              "high": 1013,
+              "altitude": 45
             },
             {
-              "Low": 977,
-              "High": 994,
-              "Altitude": 40
+              "low": 1014,
+              "high": 1031,
+              "altitude": 40
             },
             {
-              "Low": 959,
-              "High": 976,
-              "Altitude": 45
+              "low": 1032,
+              "high": 1049,
+              "altitude": 35
+            },
+            {
+              "low": 1050,
+              "high": 1060,
+              "altitude": 30
             }
           ],
           "template": {
@@ -3411,7 +3432,6 @@
       },
       "NotamsBeforeFreeText": false
     },
-
     {
       "Name": "Teeside",
       "Identifier": "EGNV",
@@ -3420,7 +3440,7 @@
         "low": "A",
         "high": "Z"
       },
-      "AtisFrequency": 32375,
+      "AtisFrequency": 32380,
       "AtisVoice": {
         "UseTextToSpeech": true,
         "Voice": "UK Male"
@@ -3433,41 +3453,40 @@
       "Presets": [
         {
           "Name": "RUNWAY 23 (MAN_CTR)",
-          "AirportConditions": "DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH LONDON CONTROL ON 133.2",
+          "AirportConditions": "DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH SCOTTISH CONTROL ON 133.2",
           "ArbitraryText": null,
           "Template": "THIS IS [FACILITY] INFORMATION [ATIS_CODE] AT TIME [OBS_TIME]. RUNWAY 23 IN USE. [TL]. [NOTAMS]. [ARPT_COND]. [WIND]. [VIS]. [RVR]. [PRESENT_WX]. [CLOUDS]. [TEMP]. [DEW]. [PRESSURE]. ACKNOWLEDGE RECEIPT OF INFORMATION [ATIS_CODE] AND ADVISE AIRCRAFT TYPE ON FIRST CONTACT."
         },
         {
           "Name": "RUNWAY 05 (MAN_CTR)",
-          "AirportConditions": "DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH LONDON CONTROL ON 133.2",
+          "AirportConditions": "DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH SCOTTISH CONTROL ON 133.2",
           "ArbitraryText": null,
           "Template": "THIS IS [FACILITY] INFORMATION [ATIS_CODE] AT TIME [OBS_TIME]. RUNWAY 05 IN USE. [TL]. [NOTAMS]. [ARPT_COND]. [WIND]. [VIS]. [RVR]. [PRESENT_WX]. [CLOUDS]. [TEMP]. [DEW]. [PRESSURE]. ACKNOWLEDGE RECEIPT OF INFORMATION [ATIS_CODE] AND ADVISE AIRCRAFT TYPE ON FIRST CONTACT."
         },
         {
           "Name": "RUNWAY 23 (MAN_E_CTR)",
-          "AirportConditions": "DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH LONDON CONTROL ON 133.8",
+          "AirportConditions": "DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH SCOTTISH CONTROL ON 133.8",
           "ArbitraryText": null,
           "Template": "THIS IS [FACILITY] INFORMATION [ATIS_CODE] AT TIME [OBS_TIME]. RUNWAY 23IN USE. [TL]. [NOTAMS]. [ARPT_COND]. [WIND]. [VIS]. [RVR]. [PRESENT_WX]. [CLOUDS]. [TEMP]. [DEW]. [PRESSURE]. ACKNOWLEDGE RECEIPT OF INFORMATION [ATIS_CODE] AND ADVISE AIRCRAFT TYPE ON FIRST CONTACT."
         },
         {
           "Name": "RUNWAY 05 (MAN_E_CTR)",
-          "AirportConditions": "DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH LONDON CONTROL ON 133.8",
+          "AirportConditions": "DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH SCOTTISH CONTROL ON 133.8",
           "ArbitraryText": null,
           "Template": "THIS IS [FACILITY] INFORMATION [ATIS_CODE] AT TIME [OBS_TIME]. RUNWAY 05 IN USE. [TL]. [NOTAMS]. [ARPT_COND]. [WIND]. [VIS]. [RVR]. [PRESENT_WX]. [CLOUDS]. [TEMP]. [DEW]. [PRESSURE]. ACKNOWLEDGE RECEIPT OF INFORMATION [ATIS_CODE] AND ADVISE AIRCRAFT TYPE ON FIRST CONTACT."
         },
         {
           "Name": "RUNWAY 23 (MAN_NE_CTR)",
-          "AirportConditions": "DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH LONDON CONTROL ON 135.715",
+          "AirportConditions": "DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH SCOTTISH CONTROL ON 135.715",
           "ArbitraryText": null,
           "Template": "THIS IS [FACILITY] INFORMATION [ATIS_CODE] AT TIME [OBS_TIME]. RUNWAY 23IN USE. [TL]. [NOTAMS]. [ARPT_COND]. [WIND]. [VIS]. [RVR]. [PRESENT_WX]. [CLOUDS]. [TEMP]. [DEW]. [PRESSURE]. ACKNOWLEDGE RECEIPT OF INFORMATION [ATIS_CODE] AND ADVISE AIRCRAFT TYPE ON FIRST CONTACT."
         },
         {
           "Name": "RUNWAY 05 (MAN_NE_CTR)",
-          "AirportConditions": "DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH LONDON CONTROL ON 135.715",
+          "AirportConditions": "DEPARTING AIRCRAFT MAKE INITIAL CONTACT WITH SCOTTISH CONTROL ON 135.715",
           "ArbitraryText": null,
           "Template": "THIS IS [FACILITY] INFORMATION [ATIS_CODE] AT TIME [OBS_TIME]. RUNWAY 05 IN USE. [TL]. [NOTAMS]. [ARPT_COND]. [WIND]. [VIS]. [RVR]. [PRESENT_WX]. [CLOUDS]. [TEMP]. [DEW]. [PRESSURE]. ACKNOWLEDGE RECEIPT OF INFORMATION [ATIS_CODE] AND ADVISE AIRCRAFT TYPE ON FIRST CONTACT."
         }
-
       ],
       "Contractions": [
         {
@@ -3514,7 +3533,6 @@
           "String": "21/03",
           "Spoken": "TWO-ONE-ZERO-THREE"
         }
-
       ],
       "AirportConditionDefinitions": [],
       "AirportConditionsBeforeFreeText": false,
@@ -3737,34 +3755,39 @@
         "transitionLevel": {
           "values": [
             {
-              "Low": 1050,
-              "High": 1060,
-              "Altitude": 20
+              "low": 940,
+              "high": 958,
+              "altitude": 90
             },
             {
-              "Low": 1032,
-              "High": 1049,
-              "Altitude": 25
+              "low": 959,
+              "high": 976,
+              "altitude": 85
             },
             {
-              "Low": 1013,
-              "High": 1031,
-              "Altitude": 30
+              "low": 977,
+              "high": 994,
+              "altitude": 80
             },
             {
-              "Low": 995,
-              "High": 1012,
-              "Altitude": 35
+              "low": 995,
+              "high": 1013,
+              "altitude": 75
             },
             {
-              "Low": 977,
-              "High": 994,
-              "Altitude": 40
+              "low": 1014,
+              "high": 1031,
+              "altitude": 70
             },
             {
-              "Low": 959,
-              "High": 976,
-              "Altitude": 45
+              "low": 1032,
+              "high": 1049,
+              "altitude": 65
+            },
+            {
+              "low": 1050,
+              "high": 1060,
+              "altitude": 60
             }
           ],
           "template": {
@@ -3782,6 +3805,5 @@
       },
       "NotamsBeforeFreeText": false
     }
-
   ]
 }
